@@ -1,0 +1,3080 @@
+CODE,MIN,MODE,MAX,COMMENTS
+180256009,5935.44,11870.87276,23741.75,Subcutaneous immunotherapy
+313191000,1284.51,2569.027213,5138.05,Injection of adrenaline
+80146002,6184.83,12369.65,24739.3,Appendectomy
+405783006,5132.8,10265.59304,20531.19,Psychological assessment
+228557008,5132.8,10265.59304,20531.19,Cognitive and behavioral therapy
+399208008,3805.29,7610.58,15221.16,Plain chest X-ray (procedure)
+269911007,3048.51,6097.0171,12194.03,Sputum examination (procedure)
+73761001,5856.4,11712.80115,23425.6,Colonoscopy
+104435004,3048.51,6097.0171,12194.03,Screening for occult blood in feces (procedure)
+274031008,5062.49,10124.97792,20249.96,Rectal polypectomy
+76164006,5856.4,11712.80115,23425.6,Biopsy of colon
+43075005,11874.36,23748.71475,47497.43,Partial resection of colon
+387607004,15874.74,31749.48505,63498.97,Construction of diverting colostomy
+703423002,5935.44,11870.87276,23741.75,Combined chemotherapy and radiation therapy (procedure)
+287664005,3755.29,7510.570372,15021.14,Bilateral tubal ligation
+169553002,4532.15,9064.305145,18128.61,Insertion of subcutaneous contraceptive
+76601001,1284.51,2569.027213,5138.05,Intramuscular injection
+65200003,4532.15,9064.305145,18128.61,Insertion of intrauterine contraceptive device
+22523008,6568.03,13136.06819,26272.14,Vasectomy
+46706006,4532.15,9064.305145,18128.61,Replacement of contraceptive intrauterine device
+68254000,4532.15,9064.305145,18128.61,Removal of intrauterine device
+755621000000101,4532.15,9064.305145,18128.61,Replacement of subcutaneous contraceptive
+301807007,4532.15,9064.305145,18128.61,Removal of subcutaneous contraceptive
+127783003,3885.65,7771.290572,15542.58,Spirometry (procedure)
+88039007,77613.87,155227.7365,310455.47,Transplant of lung (procedure)
+429609002,15711.9,31423.79603,62847.59,Lung volume reduction surgery (procedure)
+54550000,4938.46,9876.914606,19753.83,Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+312681000,4746.98,9493.95989,18987.92,Bone density scan (procedure)
+288086009,4629.94,9259.88974,18519.78,Suture open wound
+384700001,1284.51,2569.027213,5138.05,Injection of tetanus antitoxin
+91251008,250.0,500.0,1000.0,Physical therapy procedure
+699253003,8449.67,16899.34109,33798.68,Surgical manipulation of joint of knee
+387685009,8449.67,16899.34109,33798.68,Surgical manipulation of shoulder joint
+418891003,4619.6,9239.205362,18478.41,Computed tomography of chest and abdomen
+167995008,3048.51,6097.0171,12194.03,Sputum microscopy (procedure)
+91602002,7753.63,15507.25552,31014.51,Thoracentesis (procedure)
+432231006,7753.63,15507.25552,31014.51,Fine needle aspiration biopsy of lung (procedure)
+85765000,4245.28,8490.5551,16981.11,Fiberoptic bronchoscopy (procedure)
+698354004,5103.68,10207.35977,20414.72,Magnetic resonance imaging for measurement of brain volume (procedure)
+430193006,250.0,500.0,1000.0,Medication Reconciliation (procedure)
+180030006,10671.22,21342.44596,42684.89,Amputation of right foot
+79733001,10671.22,21342.44596,42684.89,Amputation of right leg
+46028000,10671.22,21342.44596,42684.89,"Amputation of right hand -- data only has ""amputation of lower extremity; assume the same for upper"
+13995008,10671.22,21342.44596,42684.89,Amputation of left arm
+65546002,5982.81,11965.62107,23931.24,Extraction of wisdom tooth
+56876005,3212.04,6424.085472,12848.17,Drug rehabilitation and detoxification
+61480009,3212.04,6424.085472,12848.17,Drug detoxification
+252160004,2621.34,5242.673228,10485.35,Standard pregnancy test
+169230002,4693.68,9387.358624,18774.72,Ultrasound scan for fetal viability
+312404004,1000.0,2000.0,4000.0,Antenatal blood tests
+274804006,2621.34,5242.673228,10485.35,Evaluation of uterine fundal height
+225158009,2621.34,5242.673228,10485.35,Auscultation of the fetal heart
+44608003,1000.0,2000.0,4000.0,Blood typing  RH typing
+104091002,1000.0,2000.0,4000.0,Hemoglobin / Hematocrit / Platelet count
+47758006,1000.0,2000.0,4000.0,Hepatitis B Surface Antigen Measurement
+31676001,1000.0,2000.0,4000.0,Human immunodeficiency virus antigen test
+310861008,1000.0,2000.0,4000.0,Chlamydia antigen test
+165829005,1000.0,2000.0,4000.0,Gonorrhea infection test
+269828009,1000.0,2000.0,4000.0,Syphilis infection test
+117010004,1000.0,2000.0,4000.0,Urine culture
+90226004,1000.0,2000.0,4000.0,Cytopathology procedure  preparation of smear  genital source
+395123002,1000.0,2000.0,4000.0,Urine screening test for diabetes
+104375008,1000.0,2000.0,4000.0,Hepatitis C antibody test
+169690007,1000.0,2000.0,4000.0,Rubella screening
+104326007,1000.0,2000.0,4000.0,Measurement of Varicella-zoster virus antibody
+28163009,1000.0,2000.0,4000.0,Skin test for tuberculosis
+167271000,1000.0,2000.0,4000.0,Urine protein test
+443529005,1000.0,2000.0,4000.0,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+275833003,1000.0,2000.0,4000.0,Alpha-fetoprotein test
+169673001,1000.0,2000.0,4000.0,Antenatal RhD antibody screening
+51116004,1284.51,2569.027213,5138.05,RhD passive immunization
+399014008,1284.51,2569.027213,5138.05,Vaccination for diphtheria  pertussis  and tetanus
+268556000,1000.0,2000.0,4000.0,Urine screening for glucose
+118001005,1000.0,2000.0,4000.0,Streptococcus pneumoniae group B antigen test
+31208007,1824.58,3649.164231,7298.33,Medical induction of labor
+18946005,1000.0,2000.0,4000.0,Epidural anesthesia
+237001001,2034.85,4069.693889,8139.39,Augmentation of labor
+85548006,2721.4,5442.799164,10885.6,Episiotomy
+236974004,3228.19,6456.387949,12912.78,Instrumental delivery
+177157003,3228.19,6456.387949,12912.78,Spontaneous breech delivery
+11466000,4190.84,8381.68,16763.36,Cesarean section
+236931002,1284.51,2569.027213,5138.05,Methotrexate injection into tubal pregnancy
+445912000,3955.85,7911.699567,15823.4,Excision of fallopian tube and surgical removal of ectopic pregnancy
+714812005,4552.66,9105.321512,18210.64,Induced termination of pregnancy
+112790001,2849.9,5699.796796,11399.59,Nasal sinus endoscopy (procedure)
+117015009,1000.0,2000.0,4000.0,Throat culture (procedure)
+609588000,9597.84,19195.68573,38391.37,Total knee replacement
+52734007,9674.16,19348.31177,38696.62,Total replacement of hip
+171245007,1000.0,2000.0,4000.0,Urine screening
+232717009,20965.79,41931.57962,83863.16,Coronary artery bypass grafting
+447365002,13027.2,26054.39635,52108.79,Insertion of biventricular implantable cardioverter defibrillator
+429500007,13027.2,26054.39635,52108.79,Monophasic defibrillation
+180325003,13027.2,26054.39635,52108.79,Electrical cardioversion
+18286008,4688.7,9377.401472,18754.8,Catheter ablation of tissue of heart
+49436004,13027.2,26054.39635,52108.79,Atrial Fibrillation
+433112001,10387.93,20775.85873,41551.72,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance
+415070008,10727.4,21454.79933,42909.6,Percutaneous coronary intervention
+40701008,400.0,1000.0,2000.0,Echocardiography (procedure)
+434158009,400.0,1000.0,2000.0,Transthoracic three dimensional ultrasonography of heart (procedure)
+185389009,75.0,75.0,75.0,Follow-up visit (procedure) -  Prior costs update source
+103744005,383.0,431.0,733.0,Administration of intravenous fluids - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825225/
+103746007,100.0,125.0,150.0,"Heparin therapy (procedure) - https://www.aafp.org/afp/1999/0315/p1607.html#:~:text=In%20our%20community%2C%20the%20cost%20of%20low-molecular-weight%20heparin,using%20low-molecular-weight%20heparin%20instead%20of%20standard%20heparin%20therapy."
+108290001,18368.0,111728.0,399056.0,Radiation oncology AND/OR radiotherapy (procedure) - https://jamanetwork.com/journals/jamaoncology/article-abstract/2758570
+113076002,176.0,206.0,236.0,Oral Glucose Tolerance Test - https://doi.org/10.2337/diacare.26.9.2536
+384692006,17514.0,17931.0,21374.0,Intracavitary brachytherapy (procedure) - https://www.sciencedirect.com/science/article/pii/S105342961930061X?viewFullText=true
+113120007,17514.0,17931.0,21374.0,Interstitial brachytherapy (procedure) - https://www.sciencedirect.com/science/article/pii/S105342961930061X?viewFullText=true
+11816003,100.0,150.0,200.0,"Diet education (procedure) - https://health.costhelper.com/nutritionist.html#:~:text=Typical%20costs%3A%20For%20patients%20not%20covered%20by%20health,end%20if%20the%20dietitian%20comes%20to%20your%20home."
+122548005,2558.0,3196.0,7990.0,Biopsy of breast (procedure) - https://www.healthcarebluebook.com/ui/proceduredetails/508
+133901003,704.0,44024.0,717306.0,Burn care - https://pubmed.ncbi.nlm.nih.gov/25041616/
+134435003,16.8,20.7,73.5,"Routine antenatal care - https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-018-3013-1#:~:text=Adding%20up%20health%20facility%20and%20household%20costs%2C%20the,than%20the%20following%20three%20visits%20%28%246%20-%20%2411%29."
+13569004,1800.0,2400.0,3000.0,Transfusion of plasma (procedure) - https://www.howmuchisit.org/blood-transfusion-cost/
+15081005,1904.0,2218.0,2532.0,"Pulmonary rehabilitation (regime/therapy) - https://pubmed.ncbi.nlm.nih.gov/18415809/#:~:text=Costs%20of%20pulmonary%20rehabilitation%20and%20predictors%20of%20adherence,per%20patient%20of%20rehabilitation%20was%20%242%2C218%20%28SD%20%24314%3B"
+1571000087109,160.0,390.0,2250.0,Ultrasonography of bilateral breasts (procedure) - https://www.newchoicehealth.com/procedures/breast-ultrasound
+162673000,50.0,200.0,222.0,General examination of patient (procedure) - https://health.costhelper.com/physical-exam.html
+162676008,50.0,200.0,222.0,Brief general examination (procedure) - https://health.costhelper.com/physical-exam.html
+169762003,100.0,150.0,200.0,"Postnatal visit - https://children.costhelper.com/post-partum-doctor-visit.html#:~:text=Typical%20costs%3A%20The%20typical%20cost%20of%20a%20postpartum,prenatal%20care%20and%20delivery%20should%20cover%20postpartum%20care."
+170836005,20.0,60.0,100.0,Allergic disorder monitoring - https://www.thepricer.org/allergy-shots-cost/
+170837001,20.0,60.0,100.0,Allergic disorder initial assessment - https://www.thepricer.org/allergy-shots-cost/
+170838006,20.0,60.0,100.0,Allergic disorder follow-up assessment - https://www.thepricer.org/allergy-shots-cost/
+180207008,1800.0,2400.0,3000.0,Intravenous blood transfusion of packed cells (procedure) - https://www.howmuchisit.org/blood-transfusion-cost/
+183063000,100.0,150.0,200.0,"low salt diet education - https://health.costhelper.com/nutritionist.html#:~:text=Typical%20costs%3A%20For%20patients%20not%20covered%20by%20health,end%20if%20the%20dietitian%20comes%20to%20your%20home."
+183460006,1189.0,4215.0,11986.0,Obstetric emergency hospital admission - https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2014.1088
+183478001,391.0,391.0,1389.0,"Emergency hospital admission for asthma - http://www.ahdbonline.com/articles/652-article-652#:~:text=The%20cost%20of%20a%20visit%20to%20the%20emergency,H.%20Stanford%2C%20PharmD%2C%20MS%2C%20a%20researcher%20with%20GlaxoSmithKline."
+183495009,141.0,253.0,365.0,"Non-urgent orthopedic admission - https://www.mdsave.com/procedures/orthopedic-established-patient-office-visit/d784f8ca#:~:text=How%20Much%20Does%20an%20Orthopedic%20Established%20Patient%20Office,and%20save.%20Read%20more%20about%20how%20MDsave%20works."
+183801001,5667.0,6156.0,7464.0,Inpatient stay 3 days - https://www.beckershospitalreview.com/finance/average-hospital-expenses-per-inpatient-day-across-50-states.html -- multiplied each of these by 3.
+210098006,180.0,195.0,210.0,"Domiciliary or rest home patient evaluation and management - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+223472008,30.0,35.0,40.0,"Discussion about hygiene - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+223484005,70.0,75.0,80.0,"Discussion about treatment (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+225302006,400.0,450.0,500.0,"Insulin Therapy - https://www.diabetesselfmanagement.com/blog/the-cost-of-insulin/#:~:text=Insulin%20costs%20have%20soared%20from%20%24100%E2%80%93%24200%20per%20month,has%20risen%20from%20%24130%20to%20%24495%20per%20month."
+225323000,50.0,60.0,85.0,Smoking cessation education - https://www.aarc.org/education/online-courses/smoking-cessation-training/
+225358003,5000.0,5500.0,6622.0,Wound care - https://www.todayswoundclinic.com/the-cost-outpatient-wound-care
+226029000,60.0,120.0,402.0,Exercise Therapy - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153837/ & https://thervo.com/costs/how-much-does-therapy-cost
+229065009,60.0,120.0,402.0,Exercise Therapy - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153837/ & https://thervo.com/costs/how-much-does-therapy-cost
+229070002,55.0,77.5,100.0,Stretching exercises - https://www.menshealth.com/fitness/a19700990/assisted-stretching-worth-it-boutique-fitness-classes/
+231181000000100,16792.0,21450.0,28334.0,Delivery of rehabilitation for spinal cord injury - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2141733/
+232657004,500000.0,561200.0,800000.0,"Lung Transplant - https://health.costhelper.com/lung-transplants.html#:~:text=The%20typical%20cost%20of%20transplant%20is%20%24500%2C000-%24800%2C000%2C%20depending,whether%20the%20procedure%20involves%20one%20or%20both%20lungs."
+234262008,1000.0,1370.0,1740.0,Excision of axillary lymph node (procedure) - https://pubmed.ncbi.nlm.nih.gov/14605613/
+241055006,80.0,120.0,212.0,Mammogram - symptomatic (procedure) - https://health.costhelper.com/mammogram.html
+241615005,500.0,1468.0,3000.0,Magnetic resonance imaging of breast (procedure) - https://www.businessinsider.com/how-much-an-mri-costs-by-state-2017-3
+24165007,100.0,125.0,150.0,"Alcoholism counseling - https://scrippsresearchlajolla.com/blog/alcohol-counseling-cost#:~:text=Estimates%20of%20the%20average%20cost%20of%20inpatient%20counseling,costly%2C%20coming%20in%20at%20around%20%24140%20a%20week."
+243072006,30.0,35.0,40.0,"Cancer education - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+24623002,80.0,120.0,212.0,Screening mammography (procedure) - https://health.costhelper.com/mammogram.html
+261352009,0.38,2.5,5.75,Face mask (physical object) - https://www.cnn.com/2020/04/16/politics/ppe-price-costs-rising-economy-personal-protective-equipment/index.html
+29303009,500.0,1500.0,2850.0,Electrocardiographic procedure - https://health.costhelper.com/ecg.html
+302497006,14000.0,26000.0,38000.0,Hemodialysis (procedure) - https://khn.org/news/first-kidney-failure-then-a-540842-bill-for-dialysis/
+304510005,30.0,35.0,40.0,"Recommendation to avoid exercise - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+266707007,3700.0,4700.0,5700.0,"Drug addiction therapy - https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/frequently-asked-questions/drug-addiction-treatment-worth-its-cost#:~:text=For%20example%2C%20the%20average%20cost%20for%201%20full,use%20and%20its%20associated%20health%20and%20social%20costs."
+310061009,100.0,125.0,200.0,Gynecology service (qualifier value) - https://www.encyclopedia.com/articles/how-much-does-it-cost-to-see-a-gynecologist-without-health-insurance/
+311791003,70.0,75.0,80.0,"Information gathering (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+313071005,140.0,789.0,1000.0,"Counseling for substance abuse (procedure) - https://addictionblog.org/FAQ/costs/how-much-does-addiction-counseling-cost/#:~:text=One%20study%20estimated%20that%20the%20average%20cost%20of,type%20of%20counseling%20was%20around%20%24140%20per%20week."
+305351004,1783.0,48744.0,784351.0,Admission to intensive care unit (procedure) - https://academic.oup.com/bjaed/article/6/4/160/387292 & https://academic.oup.com/bjaed/article/6/4/160/387292
+35025007,100.0,150.0,250.0,Manual pelvic examination (procedure) - https://health.costhelper.com/pelvic-exams.html
+361235007,486.08,542.25,598.42,Isolation of infected patient (procedure) - https://www.sciencedirect.com/science/article/pii/S0196655313013308?viewFullText=true [Cost was multiplied by 14 days as an average length of isolation
+38102005,15278.0,18537.0,32446.0,Open Removal of Gall Bladder - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667156/
+385691007,200.0,250.0,950.0,"Fracture care - https://health.costhelper.com/sprained-broken-wrist.html#:~:text=A%20typical%20doctor%20fee%20for%20non-surgical%20treatment%20of,wrist%20typically%20costs%20%247%2C000%20to%20%2410%2C000%20or%20more."
+386394001,508.0,750.0,1000.0,"Pregnancy termination care - https://www.plannedparenthood.org/learn/teens/ask-experts/how-much-does-an-abortion-cost, https://www.guttmacher.org/fact-sheet/induced-abortion-united-states"
+392020005,2210.7,3133.5,9627.0,"PICC care - https://pubmed.ncbi.nlm.nih.gov/29258628/#:~:text=PICC%20per%20patient%20per%20day%20%28including%20inpatient%20hospital,the%20median%20total%20and%20adjusted%20costs%20per%20patient"
+392021009,29250.9,33512.92,37774.9,Lumpectomy of breast (procedure) - https://pubmed.ncbi.nlm.nih.gov/3778203/ [Adjusted 1986 dollars to 2020 dollars]
+395082007,180.0,195.0,210.0,"Cancer care plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+396487001,10096.0,12660.0,15223.0,Sentinel lymph node biopsy (procedure) - https://pubmed.ncbi.nlm.nih.gov/14605613/
+409526008,0.38,2.5,5.75,Personal protective equipment (physical object) - https://www.cnn.com/2020/04/16/politics/ppe-price-costs-rising-economy-personal-protective-equipment/index.html
+410620009,75.0,75.0,75.0,Well child visit (procedure) - Prior costs update source
+412776001,180.0,195.0,210.0,"Chronic obstructive pulmonary disease clinical management plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+413473000,100.0,125.0,150.0,Counseling about alcohol consumption - https://scrippsresearchlajolla.com/blog/alcohol-counseling-cost
+415300000,70.0,75.0,80.0,"Review of systems (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+225337009,9.95,9.95,9.95,Suicide Risk Assessment - http://www.suicide-risk-assessment.com/cost.html
+426990007,291.2,201.2,211.2,Home oxygen therapy (procedure) - https://www.homecaremag.com/news/home_oxygen_cost
+433114000,200.0,250.0,300.0,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) - https://pubmed.ncbi.nlm.nih.gov/10923081/ 
+434363004,1527.0,1527.0,3267.0,"Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) - https://pubmed.ncbi.nlm.nih.gov/23583531/#:~:text=If%20office%20based%20biopsies%20were%20used%20then%20cost,167%20biopsies%2C%20compared%20to%20biopsy%20in%20all%20patients."
+443402002,30.0,35.0,40.0,"Lifestyle education regarding hypertension - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+443497002,10096.0,12659.5,15223.0,Excision of sentinel lymph node (procedure) - https://pubmed.ncbi.nlm.nih.gov/14605613/
+45595009,1947.0,4662.0,20276.0,Laparoscopic Removal of Gall Bladder - https://www.healthcarebluebook.com/ui/proceduredetails/74
+50849002,880.0,1389.0,1895.0,Emergency room admission (procedure) - https://www.usatoday.com/story/news/health/2019/06/04/hospital-billing-code-changes-help-explain-176-surge-er-costs/1336321001/
+56251003,20.0,50.0,120.0,Nebulizer Therapy - https://www.howmuchisit.org/nebulizer-machine-cost/
+58332002,30.0,35.0,40.0,"Allergy education - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+60112009,,250.0,500.0,Drug addiction counseling - https://www.rehabs.com/addiction/how-much-does-rehab-cost/
+65575008,1778.0,2220.0,5550.0,Biopsy of prostate - https://www.healthcarebluebook.com/ui/proceduredetails?cftId=92&g=Prostate%20Biopsy
+69031006,2558.0,3196.0,7990.0,Excision of breast tissue (procedure) - https://www.healthcarebluebook.com/ui/proceduredetails/508
+702927004,110.0,156.0,202.0,Urgent care clinic (procedure) - https://www.acpjournals.org/doi/10.7326/0003-4819-151-5-200909010-00006
+703040004,130.0,150.0,170.0,"Agreeing on diabetes care plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+705643001,1000.0,1000.0,1000.0,"Coronary artery stent (physical object) - https://www.thefiscaltimes.com/Articles/2010/04/26/The-High-Cost-of-Heart-Disease#:~:text=While%20a%20bare%20metal%20stent%20can%20cost%20less,be%20anywhere%20from%20%2430%2C000%20to%20more%20than%20%24100%2C000."
+710081004,1179.0,1519.0,2321.0,smoking cessation therapy - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358703/
+710818004,24.16,39.5,39.5,Inhaled steroid therapy - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895474/
+71651007,80.0,120.0,212.0,Mammography (procedure) - https://health.costhelper.com/mammogram.html
+718347000,70.0,75.0,80.0,"Mental health care plan (record artifact) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+734163000,70.0,75.0,80.0,"Care Plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+735984001,180.0,195.0,210.0,"Heart failure self management plan -  http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736252007,180.0,195.0,210.0,"Cancer care plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736254008,130.0,150.0,170.0,"Psychiatry care plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736285004,30.0,35.0,40.0,"Hyperlipidemia clinical management plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736353004,30.0,60.0,80.0,"Inpatient care plan (record artifact) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736376001,70.0,75.0,80.0,"Infectious disease care plan (record artifact) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+736690008,180.0,195.0,210.0,"Dialysis care plan (record artifact) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+385892002,30.0,35.0,40.0,"Mental health screening (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+715252007,30.0,35.0,40.0,"Depression screening using Patient Health Questionnaire Nine Item score (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+737434004,130.0,150.0,170.0,"Major depressive disorder clinical management plan - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+737471002,130.0,150.0,170.0,"Minor surgery care management (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+75162002,16792.0,21450.0,28334.0,Spinal cord injury rehabilitation - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2141733/
+90470006,4075.0,7940.5,11806.0,Prostatectomy - https://pubmed.ncbi.nlm.nih.gov/22981673/
+737567002,180.0,195.0,210.0,"Major surgery care management - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+784051000000106,3616.0,5000.0,6990.0,Depression care management - https://ps.psychiatryonline.org/doi/full/10.1176/appi.ps.201100402
+311401005,30.0,35.0,40.0,"Patient education (procedure) - http://www.whatismedicalinsurancebilling.org/p/cpt-99201-99202-99203-99204-99205-which.html#:~:text=CPT%20Code%2099202%20OFFICE%20OUTPATIENT%20NEW%2020%20MINUTES,problem%20focused%20examination%3B%20and%20straightforward%20medical%20decision%20making."
+773593000,79.0,100.0,300.0,"Urology care plan (record artifact) - https://health.costhelper.com/uti.html#:~:text=For%20patients%20not%20covered%20by%20health%20insurance%2C%20treatment,urine%20culture%2C%20antibiotics%20and%20an%20analgesic%20for%20pain."
+79094001,100.0,300.0,500.0,Initial psychiatric interview with mental status and evaluation - https://www.betterhelp.com/advice/psychiatry/how-much-does-a-psychiatrist-cost/
+88848003,100.0,200.0,300.0,Psychiatric follow-up - https://www.betterhelp.com/advice/psychiatry/how-much-does-a-psychiatrist-cost/
+90407005,100.0,200.0,300.0,Evaluation of psychiatric state of patient - https://www.betterhelp.com/advice/psychiatry/how-much-does-a-psychiatrist-cost/
+77476009,38.0,250.0,1000.0,Application of back brace - https://health.costhelper.com/back-braces.html
+47387005,1600.0,23800.0,46000.0,Head injury rehabilitation - https://www.biausa.org/professionals/research/tbi-model-systems/inpatient-acute-rehabilitation-hospital-bills-and-costs
+48387007,235.0,962.5,1690.0,"Incision of trachea (procedure) - https://health.costhelper.com/tracheotomy.html#:~:text=For%20patients%20without%20health%20insurance%2C%20a%20tracheostomy%20and,a%20ventilator%20and%20the%20length%20of%20hospital%20stay."
+229152003,100.0,100.0,100.0,Lower limb exercises (regime/therapy) - https://thervo.com/costs/physical-therapy-cost#knees
+229578001,45.0,75.0,100.0,Ice bath treatment - https://www.healthline.com/health/exercise-fitness/ice-bath-benefits#tips-for-taking-an-ice-bath
+229580007,45.0,75.0,100.0,Ice therapy - https://www.healthline.com/health/exercise-fitness/ice-bath-benefits#tips-for-taking-an-ice-bath
+23426006,40.0,420.0,800.0,Pulmonary Function Test - https://health.costhelper.com/pulmonary-function-tests.html
+304822001,69.2,199.75,330.29,Psychodynamic Interpersonal Therapy - https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1673780
+32485007,1260.0,2289.0,3879.0,"Hospital admission -https://www.kff.org/health-costs/state-indicator/expenses-per-inpatient-day-by-ownership/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D"
+1505002,1260.0,2289.0,3879.0,"Hospital admission for isolation (procedure) - https://www.kff.org/health-costs/state-indicator/expenses-per-inpatient-day-by-ownership/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D"
+74857009,1260.0,2289.0,3879.0,"Hospital admission  short-term  24 hours -https://www.kff.org/health-costs/state-indicator/expenses-per-inpatient-day-by-ownership/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D"
+265764009,423.0,797.0,1602.0,Renal dialysis (procedure) - https://onlinelibrary.wiley.com/doi/full/10.1002/dat.20386
+447759004,17514.0,17931.0,21374.0,Brachytherapy of breast (procedure) - https://www.sciencedirect.com/science/article/pii/S105342961930061X?viewFullText=true
+448337001,79.0,79.0,79.0,Telemedicine consultation with patient - 79
+719858009,79.0,79.0,79.0,"Telehealth monitoring (regime/therapy) - https://www.ortholive.com/blog/examining-the-costs-of-telehealth#:~:text=The%20medical%20devices%20used%20during%20the%20telehealth%20visit,a%20few%20hundred%20dollars%20per%20month%20per%20provider."
+72506001,30000.0,40000.0,50000.0,"Implantable defibrillator  device (physical object) - https://health.usnews.com/health-news/patient-advice/articles/2014/11/26/defibrillator-insertion-implant-for-life#:~:text=Every%20month%2C%20about%2010%2C000%20Americans%20have%20an%20ICD,implant%20alone%20is%20estimated%20at%20%2430%2C000%20to%20%2450%2C000."
+86964003,200.0,300.0,400.0,"Sweat Test - https://health.howstuffworks.com/wellness/men/sweating-odor/sweat-test.htm#:~:text=On%20the%20upside%2C%20the%20test%20doesn%27t%20require%20any,skin%2C%20where%20it%20serves%20as%20a%20sweat%20collector.\"
+708409001,20.0,50.0,120.0,Home nebulizer therapy - https://www.howmuchisit.org/nebulizer-machine-cost/
+698314001,75.0,75.0,75.0,Consultation for treatment - 
+33195004,495.0,1477.0,1477.0,Teleradiotherapy procedure (procedure) - https://www.medicare.gov/procedure-price-lookup/cost/77295
+385186005,198.0,288.0,288.0,Enema - https://www.medicare.gov/procedure-price-lookup/cost/74283
+385949008,161.0,288.0,457.0,Dressing change management - https://www.medicare.gov/procedure-price-lookup/cost/0512t & https://www.medicare.gov/procedure-price-lookup/cost/16030 & https://www.medicare.gov/procedure-price-lookup/cost/16025
+410006001,143.0,812.0,2454.0,"Digital examination of rectum - https://www.medicare.gov/procedure-price-lookup/cost/45300, https://www.medicare.gov/procedure-price-lookup/cost/45990"
+52765003,251.0,352.0,864.0,Intubation - https://www.medicare.gov/procedure-price-lookup/cost/31500 & https://www.medicare.gov/procedure-price-lookup/cost/43757
+408869004,1286.0,2011.5,2737.0,Musculoskeletal care - https://www.medicare.gov/procedure-price-lookup/cost/0101t
+112798008,251.0,352.0,352.0,Insertion of endotracheal tube (procedure) - https://www.medicare.gov/procedure-price-lookup/cost/31500
+271280005,138.0,239.0,239.0,Removal of endotracheal tube (procedure) - https://www.medicare.gov/procedure-price-lookup/cost/31502
+36576007,389.0,447.5,506.0,Infusion (procedure) - https://www.medicare.gov/procedure-price-lookup/cost/77750
+706004007,7817.0,9034.0,10251.0,Implantable cardiac pacemaker (physical object) - https://www.medicare.gov/procedure-price-lookup/cost/33208
+00100,,8.9,500.0,oral evaluation - unknown
+00101,,0.19,2328.0,oral evaluation - unknown
+00102,,0.23,6906.44,oral evaluation - unknown
+00103,,0.38,15080.0,oral evaluation - unknown
+00104,,0.42,5575.0,oral evaluation - unknown
+00105,,0.53,34257.0,oral evaluation - unknown
+00106,,0.52,8560.0,oral evaluation - unknown
+00107,,0.49,5575.0,oral evaluation - unknown
+00108,,0.11,1800.0,oral evaluation - unknown
+00109,,0.4,1639.0,oral evaluation - unknown
+00110,,0.95,49410.0,oral evaluation - unknown
+00111,,5.69,40.0,oral evaluation - unknown
+00112,,,,oral evaluation - unknown
+00113,,,,oral evaluation - unknown
+00114,,6.47,85.0,oral evaluation - unknown
+00115,,69.23,900.0,oral evaluation - unknown
+00116,,,,oral evaluation - unknown
+00117,,,,oral evaluation - unknown
+00119,,,,oral evaluation - unknown
+00120,,14.56,14724.75,periodic oral evaluation - established patient
+00121,,39.58,950.0,oral evaluation - unknown
+00122,,,,oral evaluation - unknown
+00123,,,,oral evaluation - unknown
+00124,,,,oral evaluation - unknown
+00125,,,,oral evaluation - unknown
+00127,35.0,35.0,35.0,oral evaluation - unknown
+00130,,6.05,375.0,oral evaluation - unknown
+00133,,,,oral evaluation - unknown
+00140,,10.2,28629.0,limited oral evaluation - problem focused
+00141,,,,oral evaluation - unknown
+00142,,5.64,23.33,oral evaluation - unknown
+00143,,4.74,45.0,oral evaluation - unknown
+00144,,,,oral evaluation - unknown
+00145,,3.17,100.0,oral evaluation for a patient under three years of age and counseling with primary caregiver
+00149,,,,oral evaluation - unknown
+00150,,271.18,45404.0,comprehensive oral evaluation - new or established patient
+00151,,54.59,286.0,oral evaluation - unknown
+00152,,25.33,60.5,oral evaluation - unknown
+00153,,23.81,82.5,oral evaluation - unknown
+00154,,82.61,2700.0,oral evaluation - unknown
+00155,,161.2,1120.0,oral evaluation - unknown
+00156,,17.75,354.6,oral evaluation - unknown
+00157,,31.1,91.67,oral evaluation - unknown
+00158,,22.5,62.5,oral evaluation - unknown
+00159,,,,oral evaluation - unknown
+00160,,16.01,5908.75,detailed and extensive oral evaluation - problem focused by report
+00161,,25.0,50.0,oral evaluation - unknown
+00162,,46.04,92.5,oral evaluation - unknown
+00163,,10.65,42.61,oral evaluation - unknown
+00164,37.5,77.95,180.0,oral evaluation - unknown
+00168,,,,oral evaluation - unknown
+00170,,5.81,347.26,re-evaluation - limited problem focused (established patient; not post-operative visit)
+00171,,9.27,103.0,re-evaluation - post-operative office visit
+00173,,,,oral evaluation - unknown
+00177,,37.5,150.0,oral evaluation - unknown
+00178,,,,oral evaluation - unknown
+00179,,,,oral evaluation - unknown
+00180,,70.51,25169.0,comprehensive periodontal evaluation - new or established patient
+00181,,,,oral evaluation - unknown
+00182,152.0,152.0,152.0,oral evaluation - unknown
+00183,,,,oral evaluation - unknown
+00184,,,,oral evaluation - unknown
+00185,,,,oral evaluation - unknown
+00187,,,,oral evaluation - unknown
+00188,,,,oral evaluation - unknown
+00189,,,,oral evaluation - unknown
+00190,,12.92,4072.2,screening of a patient
+00191,,1.23,169.0,assessment of a patient
+00193,0.01,6.76,13.51,oral evaluation - unknown
+00194,,,,oral evaluation - unknown
+00195,,,,oral evaluation - unknown
+00199,,4.17,25.0,oral evaluation - unknown
+00200,,22.76,430.0,radiographic imagery - unknown
+00201,,1.56,1288.0,radiographic imagery - unknown
+00202,,0.41,2915.0,radiographic imagery - unknown
+00203,,,1.0,radiographic imagery - unknown
+00204,,2.41,65759.83,radiographic imagery - unknown
+00205,,0.86,1669.0,radiographic imagery - unknown
+00206,,,1.0,radiographic imagery - unknown
+00207,,0.88,3411.0,radiographic imagery - unknown
+00208,,,,radiographic imagery - unknown
+00209,,2.86,20.0,radiographic imagery - unknown
+00210,,118.44,58471.0,intraoral - comprehensive series of radiographic images
+00211,,,,radiographic imagery - unknown
+00213,,,,radiographic imagery - unknown
+00214,,35.5,71.0,radiographic imagery - unknown
+00216,,,,radiographic imagery - unknown
+00219,202.0,202.0,202.0,radiographic imagery - unknown
+00220,,62.12,47253.0,intraoral - periapical first radiographic image
+00221,,,,radiographic imagery - unknown
+00222,,,,radiographic imagery - unknown
+00223,,,,radiographic imagery - unknown
+00224,,,,radiographic imagery - unknown
+00229,,,,radiographic imagery - unknown
+00230,,18.17,16073.0,intraoral - periapical each additional radiographic image
+00231,,,,radiographic imagery - unknown
+00232,,,,radiographic imagery - unknown
+00233,,57.13,450.0,radiographic imagery - unknown
+00235,,,,radiographic imagery - unknown
+00237,,,,radiographic imagery - unknown
+00238,17.0,17.0,17.0,radiographic imagery - unknown
+00240,,43.51,5998.5,intraoral - occlusal radiographic image
+00241,,,,radiographic imagery - unknown
+00247,,550.0,1100.0,radiographic imagery - unknown
+00249,,,,radiographic imagery - unknown
+00250,,14.15,3231.0,extra-oral - 2D projection radiographic image created using a stationary radiation source and detector
+00251,,5.54,72.0,extra-oral posterior dental radiographic image
+00257,1034.77,1626.85,2811.0,radiographic imagery - unknown
+00260,,25.67,2314.0,radiographic imagery - unknown
+00261,,,,radiographic imagery - unknown
+00263,,,,radiographic imagery - unknown
+00265,,,,radiographic imagery - unknown
+00270,,142.88,24816.0,bitewing - single radiographic image
+00271,,,,radiographic imagery - unknown
+00272,,115.27,16848.0,bitewings - two radiographic images
+00273,,68.6,6174.52,bitewings - three radiographic images
+00274,,116.49,29639.0,bitewings - four radiographic images
+00275,,,,radiographic imagery - unknown
+00277,,300.14,6034.0,vertical bitewings - 7 to 8 radiographic images
+00279,,108.24,180.4,radiographic imagery - unknown
+00280,,,,radiographic imagery - unknown
+00281,26.88,26.88,26.88,radiographic imagery - unknown
+00283,,28.74,145.0,radiographic imagery - unknown
+00288,,,,radiographic imagery - unknown
+00289,,,,radiographic imagery - unknown
+00290,,7.74,500.0,radiographic imagery - unknown
+00293,,,,radiographic imagery - unknown
+00294,,,,radiographic imagery - unknown
+00295,,,,radiographic imagery - unknown
+00299,,132.9,4960.0,radiographic imagery - unknown
+00300,,397.47,14823.63,other imagery - unknown
+00301,,0.07,2400.0,other imagery - unknown
+00302,,0.54,26412.34,other imagery - unknown
+00303,,0.43,21117.04,other imagery - unknown
+00304,,0.29,34977.58,other imagery - unknown
+00305,,0.12,2773.27,other imagery - unknown
+00306,,,,other imagery - unknown
+00307,,,,other imagery - unknown
+00308,,3.5,7.0,other imagery - unknown
+00310,,,,sialography
+00311,,,,other imagery - unknown
+00313,,,,other imagery - unknown
+00317,,,,other imagery - unknown
+00320,,103.77,6610.0,temporomandibular joint arthrogram including injection
+00321,,18.97,2421.0,other temporomandibular joint radiographic images by report
+00322,,15.85,600.0,tomographic survey
+00323,,,,other imagery - unknown
+00324,,,,other imagery - unknown
+00325,,,,other imagery - unknown
+00328,,,,other imagery - unknown
+00330,,11.01,22248.0,panoramic radiographic image
+00331,,33.57,85.0,other imagery - unknown
+00332,,,,other imagery - unknown
+00333,,525.0,2100.0,other imagery - unknown
+00334,,,,other imagery - unknown
+00335,,,,other imagery - unknown
+00340,,9.09,250.0,2D cephalometric radiographic image - acquisition measurement and analysis
+00343,,,,other imagery - unknown
+00345,,,,other imagery - unknown
+00347,,,,other imagery - unknown
+00350,,1.52,929.6,2D oral/facial photographic image obtained intra-orally or extra-orally
+00351,,,,other imagery - unknown
+00353,,,,other imagery - unknown
+00354,,,,other imagery - unknown
+00355,,5.43,125.0,other imagery - unknown
+00357,,,,other imagery - unknown
+00359,,,,other imagery - unknown
+00360,,4.23,1213.0,other imagery - unknown
+00361,,26.67,80.0,other imagery - unknown
+00362,,,,other imagery - unknown
+00363,,1.68,500.0,other imagery - unknown
+00364,,1.9,387.0,cone beam CT capture and interpretation with limited field of view - less than one whole jaw
+00365,,3.95,350.0,cone beam CT capture and interpretation with field of view of one full dental arch - mandible
+00366,,3.09,398.21,cone beam CT capture and interpretation with field of view of one full dental arch - maxilla with or without cranium
+00367,,5.11,818.79,cone beam CT capture and interpretation with field of view of both jaws; with or without cranium
+00368,,1.1,350.0,cone beam CT capture and interpretation for TMJ series including two or more exposures
+00369,,,,maxillofacial MRI capture and interpretation
+00370,,,,maxillofacial ultrasound capture and interpretation
+00371,,932.3,14871.0,sialoendoscopy capture and interpretation
+00372,,,,intraoral tomosynthesis - comprehensive series of radiographic images
+00373,,,,intraoral tomosynthesis - bitewing radiographic image
+00374,,,,intraoral tomosynthesis - periapical radiographic image
+00376,,131.5,263.0,other imagery - unknown
+00377,,,,other imagery - unknown
+00378,,18.19,46.24,other imagery - unknown
+00380,,4.56,340.0,cone beam CT image capture with limited field of view - less than one whole jaw
+00381,,1.68,350.0,cone beam CT image capture with field of view of one full dental arch - mandible
+00382,,5.22,1000.0,cone beam CT image capture with field of view of one full dental arch - maxilla with or without cranium
+00383,,2.43,350.0,cone beam CT image capture with field of view of both jaws; with or without cranium
+00384,,4.83,328.3,cone beam CT image capture for TMJ series including two or more exposures
+00385,,,,maxillofacial MRI image capture
+00386,,,,maxillofacial ultrasound image capture
+00387,,,,intraoral tomosynthesis - comprehensive series of radiographic images - image capture only
+00388,,45.45,136.36,intraoral tomosynthesis - bitewing radiographic image - image capture only
+00389,,,,intraoral tomosynthesis - periapical radiographic image - image capture only
+00390,,,,other imagery - unknown
+00391,,2.82,175.0,interpretation of diagnostic image by a practitioner not associated with capture of the image including report
+00392,,,,other imagery - unknown
+00393,,2.48,495.0,virtual treatment simulation using 3D image volume or surface scan
+00394,,,,digital subtraction of two or more images or image volumes of the same modality
+00395,,,,fusion of two or more 3D image volumes of one or more modalities
+00397,,,,other imagery - unknown
+00399,,75.0,100.0,other imagery - unknown
+00400,,0.55,6.0,lab test - unknown
+00401,,,,lab test - unknown
+00402,,0.19,412.0,lab test - unknown
+00403,,0.05,731.5,lab test - unknown
+00404,,0.86,1800.0,lab test - unknown
+00405,,0.01,55.0,lab test - unknown
+00406,,,,lab test - unknown
+00407,,,,lab test - unknown
+00410,,34.0,242.0,lab test - unknown
+00411,,,,HbA1c in-office point of service testing
+00412,,0.49,10.0,blood glucose level test - in-office using a glucose meter
+00413,,,,lab test - unknown
+00414,,,,laboratory processing of microbial specimen to include culture and sensitivity studies preparation and transmission of written report
+00415,,0.04,10.0,collection of microorganisms for culture and sensitivity
+00416,,1.65,200.0,viral culture
+00417,,1.02,40.0,collection and preparation of saliva sample for laboratory diagnostic testing
+00418,,3.42,152.37,analysis of saliva sample
+00419,,,,assessment of salivary flow by measurement
+00420,,22.5,90.0,lab test - unknown
+00421,,,,lab test - unknown
+00422,,,,collection and preparation of genetic sample material for laboratory analysis and report
+00423,,,,genetic test for susceptibility to diseases - specimen analysis
+00424,,110.89,331.0,lab test - unknown
+00425,,2.26,31.59,caries susceptibility tests
+00426,,,,lab test - unknown
+00427,,,,lab test - unknown
+00428,,,,lab test - unknown
+00429,,,,lab test - unknown
+00430,,,,lab test - unknown
+00431,,1.19,212.3,adjunctive pre-diagnostic test that aids in detection of mucosal abnormalities including premalignant and malignant lesions not to include cytology or biopsy procedures
+00432,,,,lab test - unknown
+00434,,64.19,378.5,lab test - unknown
+00436,,,,lab test - unknown
+00438,,125.05,396.66,lab test - unknown
+00439,,100.38,693.0,lab test - unknown
+00440,10.0,10.0,10.0,lab test - unknown
+00441,,,,lab test - unknown
+00442,,30.0,60.0,lab test - unknown
+00443,,,,lab test - unknown
+00444,,43.5,87.0,lab test - unknown
+00447,160.0,160.0,160.0,lab test - unknown
+00450,,300.0,750.0,lab test - unknown
+00455,,113.0,226.0,lab test - unknown
+00459,,,,lab test - unknown
+00460,,21.19,3451.63,pulp vitality tests
+00461,225.0,225.0,225.0,lab test - unknown
+00462,,60.12,120.24,lab test - unknown
+00463,,163.65,952.24,lab test - unknown
+00466,150.0,201.54,229.33,lab test - unknown
+00467,123.0,160.5,179.0,lab test - unknown
+00469,,,,lab test - unknown
+00470,,9.39,5002.33,diagnostic casts
+00471,,1.99,63.0,lab test - unknown
+00472,,5.95,78.15,accession of tissue gross examination preparation and transmission of written report
+00473,,9.14,319.0,accession of tissue gross and microscopic examination preparation and transmission of written report
+00474,,1.78,212.0,accession of tissue gross and microscopic examination including assessment of surgical margins for presence of disease preparation and transmission of written report
+00475,,938.87,6604.3,decalcification procedure
+00476,,5.25,42.0,special stains for microorganisms
+00477,,,,special stains not for microorganisms
+00478,,26.46,172.0,immunohistochemical stains
+00480,,39.7,370.2,accession of exfoliative cytologic smears microscopic examination preparation and transmission of written report
+00481,,31.75,254.0,electron microscopy
+00482,,,,direct immunofluorescence
+00483,,,,indirect immunofluorescence
+00484,,0.91,20.0,consultation on slides prepared elsewhere
+00485,,,,consultation including preparation of slides from biopsy material supplied by referring source
+00486,,,,laboratory accession of transepithelial cytologic sample microscopic examination preparation and transmission of written report
+00488,,,,lab test - unknown
+00490,,,,lab test - unknown
+00491,,181.5,363.0,lab test - unknown
+00493,35.0,35.0,35.0,lab test - unknown
+00494,50.0,50.0,50.0,lab test - unknown
+00495,37.5,37.5,37.5,lab test - unknown
+00496,37.5,715.3,1732.0,lab test - unknown
+00498,,1000.0,1500.0,lab test - unknown
+00499,,50.0,250.0,lab test - unknown
+00500,,,,oral pathology - unknown
+00501,,2.92,1590.0,oral pathology - unknown
+00502,,1.77,8155.0,other oral pathology procedures by report
+00503,,0.73,6875.0,oral pathology - unknown
+00504,,,1.0,oral pathology - unknown
+00505,,2.96,30030.0,oral pathology - unknown
+00506,,0.82,22847.14,oral pathology - unknown
+00508,,,,oral pathology - unknown
+00510,,,,oral pathology - unknown
+00512,,,,oral pathology - unknown
+00513,,,,oral pathology - unknown
+00514,,,,oral pathology - unknown
+00515,,,,oral pathology - unknown
+00516,,,,oral pathology - unknown
+00519,,13.33,40.0,oral pathology - unknown
+00520,,,,oral pathology - unknown
+00522,,,,oral pathology - unknown
+00524,,,,oral pathology - unknown
+00525,,,,oral pathology - unknown
+00530,,,,oral pathology - unknown
+00531,,,,oral pathology - unknown
+00532,,,,oral pathology - unknown
+00550,,,,oral pathology - unknown
+00551,,,,oral pathology - unknown
+00552,,5.28,95.0,oral pathology - unknown
+00553,,,,oral pathology - unknown
+00555,,,,oral pathology - unknown
+00562,,,,oral pathology - unknown
+00570,,,,oral pathology - unknown
+00571,,,,oral pathology - unknown
+00574,,,,oral pathology - unknown
+00582,,,,oral pathology - unknown
+00589,,,,oral pathology - unknown
+00590,,,,oral pathology - unknown
+00592,,,,oral pathology - unknown
+00599,,,,oral pathology - unknown
+00600,,,,non-ionizing diagnostic procedure capable of quantifying monitoring and recording changes in structure of enamel dentin and cementum
+00601,,0.5,2448.0,caries risk assessment and documentation with a finding of low risk
+00602,,0.22,6255.0,caries risk assessment and documentation with a finding of moderate risk
+00603,,0.13,2800.0,caries risk assessment and documentation with a finding of high risk
+00604,,0.24,5826.0,antigen testing for a public health related pathogen including coronavirus
+00605,,,,antibody testing for a public health related pathogen including coronavirus
+00606,,,,molecular testing for a public health related pathogen including coronavirus
+00607,,,,caries risk assessment - unknown
+00608,,,,caries risk assessment - unknown
+00610,,193.97,3000.0,caries risk assessment - unknown
+00612,,,,caries risk assessment - unknown
+00614,,,,caries risk assessment - unknown
+00623,,,,caries risk assessment - unknown
+00624,552.0,552.0,552.0,caries risk assessment - unknown
+00625,,,,caries risk assessment - unknown
+00627,,,,caries risk assessment - unknown
+00628,,,,caries risk assessment - unknown
+00629,,,,caries risk assessment - unknown
+00630,,,,caries risk assessment - unknown
+00632,,,,caries risk assessment - unknown
+00635,,,,caries risk assessment - unknown
+00636,,,,caries risk assessment - unknown
+00637,,,,caries risk assessment - unknown
+00643,,,,caries risk assessment - unknown
+00650,,,,caries risk assessment - unknown
+00651,,,,caries risk assessment - unknown
+00654,,,,caries risk assessment - unknown
+00656,,173.91,795.0,caries risk assessment - unknown
+00657,,65.67,788.0,caries risk assessment - unknown
+00658,,,,caries risk assessment - unknown
+00659,,,,caries risk assessment - unknown
+00662,,,,caries risk assessment - unknown
+00666,,,,caries risk assessment - unknown
+00667,,,,caries risk assessment - unknown
+00670,,1591.2,4500.0,caries risk assessment - unknown
+00674,,137.14,960.0,caries risk assessment - unknown
+00675,552.0,552.0,552.0,caries risk assessment - unknown
+00680,,,,caries risk assessment - unknown
+00684,,,,caries risk assessment - unknown
+00686,20.0,20.0,20.0,caries risk assessment - unknown
+00690,,,,caries risk assessment - unknown
+00694,,,,caries risk assessment - unknown
+00699,,,,caries risk assessment - unknown
+00700,,,,image capture only - unknown
+00701,,0.42,1653.0,panoramic radiographic image - image capture only
+00702,,3.84,80117.0,2-D cephalometric radiographic image - image capture only
+00703,,0.1,2899.0,2-D oral/facial photographic image obtained intra-orally or extra-orally - image capture only
+00704,,1.79,81016.0,image capture only - unknown
+00705,,,,extra-oral posterior dental radiographic image - image capture only
+00706,,,,intraoral - occlusal radiographic image - image capture only
+00707,,,,intraoral - periapical radiographic image - image capture only
+00708,,2008.04,5579.33,intraoral - bitewing radiographic image - image capture only
+00709,,1165.8,9624.5,intraoral - comprehensive series of radiographic images - image capture only
+00710,,,,image capture only - unknown
+00714,,,,image capture only - unknown
+00719,137.0,137.0,137.0,image capture only - unknown
+00720,,,,image capture only - unknown
+00721,,,,image capture only - unknown
+00722,,,,image capture only - unknown
+00725,,1750.0,3500.0,image capture only - unknown
+00728,,,,image capture only - unknown
+00730,,,,image capture only - unknown
+00731,,,,image capture only - unknown
+00732,,38.33,115.0,image capture only - unknown
+00738,,,,image capture only - unknown
+00739,,,,image capture only - unknown
+00740,,189.82,750.0,image capture only - unknown
+00741,,,,image capture only - unknown
+00743,,,,image capture only - unknown
+00745,,,,image capture only - unknown
+00746,,,,image capture only - unknown
+00747,270.0,555.18,1125.55,image capture only - unknown
+00748,,,,image capture only - unknown
+00750,,,,image capture only - unknown
+00751,,,,image capture only - unknown
+00753,,,,image capture only - unknown
+00760,,,,image capture only - unknown
+00762,,,,image capture only - unknown
+00772,,,,image capture only - unknown
+00774,,,,image capture only - unknown
+00776,,,,image capture only - unknown
+00781,,36.0,144.0,image capture only - unknown
+00784,,,,image capture only - unknown
+00788,,,,image capture only - unknown
+00790,,958.89,1764.0,image capture only - unknown
+00791,,57.6,288.0,image capture only - unknown
+00792,,,,image capture only - unknown
+00795,,,,image capture only - unknown
+00800,,,,3D scan - unknown
+00801,,,,3D dental surface scan - direct
+00802,,0.35,2859.0,3D dental surface scan - indirect
+00803,,0.48,1288.0,3D facial surface scan - direct
+00804,,2.73,1972.0,3D facial surface scan - indirect
+00805,,0.35,11640.0,3D scan - unknown
+00806,,,0.01,3D scan - unknown
+00807,,,,3D scan - unknown
+00808,,21.56,345.0,3D scan - unknown
+00809,,,,3D scan - unknown
+00810,,228.54,950.0,3D scan - unknown
+00812,,,,3D scan - unknown
+00816,,125.0,625.0,3D scan - unknown
+00817,,,,3D scan - unknown
+00820,14.67,14.67,14.67,3D scan - unknown
+00821,,,,3D scan - unknown
+00823,,,,3D scan - unknown
+00828,,,,3D scan - unknown
+00829,,,,3D scan - unknown
+00830,,,,3D scan - unknown
+00831,,,,3D scan - unknown
+00832,,25.0,50.0,3D scan - unknown
+00833,,,,3D scan - unknown
+00834,150.0,150.0,150.0,3D scan - unknown
+00837,,57.4,150.0,3D scan - unknown
+00838,,,,3D scan - unknown
+00840,,162.5,650.0,3D scan - unknown
+00846,,,,3D scan - unknown
+00851,,162.5,325.0,3D scan - unknown
+00855,,,,3D scan - unknown
+00859,,,,3D scan - unknown
+00862,,,,3D scan - unknown
+00863,,,,3D scan - unknown
+00864,69.5,69.5,69.5,3D scan - unknown
+00867,,,,3D scan - unknown
+00869,,,,3D scan - unknown
+00870,,,,3D scan - unknown
+00873,,151.6,379.0,3D scan - unknown
+00880,,0.92,5.5,3D scan - unknown
+00882,10.04,10.04,10.04,3D scan - unknown
+00883,,,,3D scan - unknown
+00885,,,,3D scan - unknown
+00888,,,,3D scan - unknown
+00899,,,,3D scan - unknown
+00900,,,,unspecified diagnostic procedure - unknown
+00901,,,,unspecified diagnostic procedure - unknown
+00902,,0.05,1840.0,unspecified diagnostic procedure - unknown
+00903,,0.33,7289.0,unspecified diagnostic procedure - unknown
+00904,,0.12,7200.0,unspecified diagnostic procedure - unknown
+00905,,,,unspecified diagnostic procedure - unknown
+00906,,,,unspecified diagnostic procedure - unknown
+00908,,,,unspecified diagnostic procedure - unknown
+00910,,16.43,115.0,unspecified diagnostic procedure - unknown
+00911,,,,unspecified diagnostic procedure - unknown
+00912,,,,unspecified diagnostic procedure - unknown
+00914,,,,unspecified diagnostic procedure - unknown
+00916,,,,unspecified diagnostic procedure - unknown
+00918,,,,unspecified diagnostic procedure - unknown
+00922,,,,unspecified diagnostic procedure - unknown
+00924,,,,unspecified diagnostic procedure - unknown
+00928,,,,unspecified diagnostic procedure - unknown
+00930,,,,unspecified diagnostic procedure - unknown
+00931,,,,unspecified diagnostic procedure - unknown
+00940,,,,unspecified diagnostic procedure - unknown
+00941,,7.5,15.0,unspecified diagnostic procedure - unknown
+00942,,,,unspecified diagnostic procedure - unknown
+00945,89.68,89.68,89.68,unspecified diagnostic procedure - unknown
+00955,,,,unspecified diagnostic procedure - unknown
+00956,,,,unspecified diagnostic procedure - unknown
+00957,,,,unspecified diagnostic procedure - unknown
+00958,,,,unspecified diagnostic procedure - unknown
+00960,,,,unspecified diagnostic procedure - unknown
+00963,,3.86,18.0,unspecified diagnostic procedure - unknown
+00964,,,,unspecified diagnostic procedure - unknown
+00967,,,,unspecified diagnostic procedure - unknown
+00968,,,,unspecified diagnostic procedure - unknown
+00969,,,,unspecified diagnostic procedure - unknown
+00971,,,,unspecified diagnostic procedure - unknown
+00973,,,,unspecified diagnostic procedure - unknown
+00989,,,,unspecified diagnostic procedure - unknown
+00990,,0.06,1.0,unspecified diagnostic procedure - unknown
+00991,,,,unspecified diagnostic procedure - unknown
+00992,,,,unspecified diagnostic procedure - unknown
+00994,,,,unspecified diagnostic procedure - unknown
+00996,,,,unspecified diagnostic procedure - unknown
+00997,,,,unspecified diagnostic procedure - unknown
+00998,,79.86,150.0,unspecified diagnostic procedure - unknown
+00999,,68.43,6291.01,unspecified diagnostic procedure by report
+01000,,,,diagnostic procedure - unknown
+01001,,,50.0,preventive procedure - unknown
+01002,,,1.0,preventive procedure - unknown
+01003,,0.16,2897.0,preventive procedure - unknown
+01004,,5.11,111147.35,preventive procedure - unknown
+01005,,,,preventive procedure - unknown
+01006,,,,preventive procedure - unknown
+01007,,,0.01,preventive procedure - unknown
+01008,,,,preventive procedure - unknown
+01009,,,,preventive procedure - unknown
+01010,,,,preventive procedure - unknown
+01011,,,,preventive procedure - unknown
+01012,,,,preventive procedure - unknown
+01013,,,,preventive procedure - unknown
+01014,,,,preventive procedure - unknown
+01017,,,,preventive procedure - unknown
+01019,,,,preventive procedure - unknown
+01020,,5.05,48.0,preventive procedure - unknown
+01022,,1270.32,3387.53,preventive procedure - unknown
+01023,,27.5,165.0,preventive procedure - unknown
+01024,,,,preventive procedure - unknown
+01025,,,,preventive procedure - unknown
+01026,,,,preventive procedure - unknown
+01027,,,,preventive procedure - unknown
+01028,,,,preventive procedure - unknown
+01029,,,,preventive procedure - unknown
+01030,,74.17,445.0,preventive procedure - unknown
+01031,,,,preventive procedure - unknown
+01033,,,,preventive procedure - unknown
+01034,,,,preventive procedure - unknown
+01038,,,,preventive procedure - unknown
+01040,,10.51,115.57,preventive procedure - unknown
+01042,,327.25,1309.0,preventive procedure - unknown
+01043,,,,preventive procedure - unknown
+01046,,,,preventive procedure - unknown
+01050,,18.0,90.0,preventive procedure - unknown
+01056,,,,preventive procedure - unknown
+01059,,,,preventive procedure - unknown
+01060,18.63,18.63,18.63,preventive procedure - unknown
+01073,,,,preventive procedure - unknown
+01075,,,,preventive procedure - unknown
+01076,,,,preventive procedure - unknown
+01079,,,,preventive procedure - unknown
+01080,,,,preventive procedure - unknown
+01085,,,,preventive procedure - unknown
+01089,,,,preventive procedure - unknown
+01092,,,,preventive procedure - unknown
+01093,,,,preventive procedure - unknown
+01095,,,,preventive procedure - unknown
+01099,,,,preventive procedure - unknown
+01100,,4.1,82.0,prophylaxis - unknown
+01101,,,1.0,prophylaxis - unknown
+01102,,,,prophylaxis - unknown
+01103,,,,prophylaxis - unknown
+01104,,,,prophylaxis - unknown
+01105,,,,prophylaxis - unknown
+01108,,,,prophylaxis - unknown
+01110,,81.39,137608.24,prophylaxis - adult
+01111,,2.83,68.0,prophylaxis - unknown
+01112,,,,prophylaxis - unknown
+01113,,39.0,234.0,prophylaxis - unknown
+01115,,,,prophylaxis - unknown
+01116,,,,prophylaxis - unknown
+01118,,,,prophylaxis - unknown
+01119,,,,prophylaxis - unknown
+01120,,128.76,48323.71,prophylaxis - child
+01123,,,,prophylaxis - unknown
+01127,,,,prophylaxis - unknown
+01130,,,,prophylaxis - unknown
+01131,,,,prophylaxis - unknown
+01139,,,,prophylaxis - unknown
+01140,,69.75,203.0,prophylaxis - unknown
+01146,,,,prophylaxis - unknown
+01151,,,,prophylaxis - unknown
+01155,,,,prophylaxis - unknown
+01158,,,,prophylaxis - unknown
+01161,,,,prophylaxis - unknown
+01170,13.5,13.5,13.5,prophylaxis - unknown
+01173,,,,prophylaxis - unknown
+01180,,,,prophylaxis - unknown
+01190,,,,prophylaxis - unknown
+01198,,520.0,1300.0,prophylaxis - unknown
+01200,,200.0,2000.0,topical application of fluoride - unknown
+01201,,,0.01,topical application of fluoride - unknown
+01202,,,,topical application of fluoride - unknown
+01203,,2.0,7612.5,topical application of fluoride - unknown
+01204,,30.44,8286.0,topical application of fluoride - unknown
+01205,,3.79,251.8,topical application of fluoride - unknown
+01206,,165.69,39312.0,topical application of fluoride varnish
+01207,12.0,12.0,12.0,topical application of fluoride - unknown
+01208,,145.45,13946.0,topical application of fluoride - excluding varnish
+01210,,5.41,265.0,topical application of fluoride - unknown
+01213,,,,topical application of fluoride - unknown
+01214,,,,topical application of fluoride - unknown
+01215,,,,topical application of fluoride - unknown
+01220,,,,topical application of fluoride - unknown
+01223,,,,topical application of fluoride - unknown
+01226,,,,topical application of fluoride - unknown
+01230,,,,topical application of fluoride - unknown
+01232,,,,topical application of fluoride - unknown
+01233,,,,topical application of fluoride - unknown
+01235,,,,topical application of fluoride - unknown
+01237,,,,topical application of fluoride - unknown
+01240,,56.59,282.94,topical application of fluoride - unknown
+01246,,,,topical application of fluoride - unknown
+01248,,,,topical application of fluoride - unknown
+01249,,,,topical application of fluoride - unknown
+01250,,150.42,227.0,topical application of fluoride - unknown
+01256,300.0,300.0,300.0,topical application of fluoride - unknown
+01260,,,,topical application of fluoride - unknown
+01267,250.03,250.03,250.03,topical application of fluoride - unknown
+01274,,,,topical application of fluoride - unknown
+01275,3134.4,3134.4,3134.4,topical application of fluoride - unknown
+01291,,,,topical application of fluoride - unknown
+01299,,343.75,1375.0,topical application of fluoride - unknown
+01300,,54.61,163.82,preventative measure - unknown
+01301,,,1.0,preventative measure - unknown
+01302,,,,preventative measure - unknown
+01303,,,1.0,preventative measure - unknown
+01304,,,,preventative measure - unknown
+01305,,,,preventative measure - unknown
+01307,,,,preventative measure - unknown
+01310,,25.16,5666.84,nutritional counseling for control of dental disease
+01312,,,,preventative measure - unknown
+01320,,0.7,479.0,tobacco counseling for the control and prevention of oral disease
+01330,,13.64,5666.82,oral hygiene instructions
+01331,,,,preventative measure - unknown
+01332,,59.09,250.0,preventative measure - unknown
+01333,,,,preventative measure - unknown
+01340,,,,preventative measure - unknown
+01351,,186.19,10926.75,sealant - per tooth
+01352,,92.08,1077.67,preventive resin restoration in a moderate to high caries risk patient - permanent tooth
+01353,,150.69,9958.0,sealant repair - per tooth
+01354,,66.89,3939.18,application of caries arresting medicament - per tooth
+01355,,,,caries preventive medicament application - per tooth
+01357,,,,preventative measure - unknown
+01360,,,,preventative measure - unknown
+01382,,,,preventative measure - unknown
+01390,,,,preventative measure - unknown
+01392,,,,preventative measure - unknown
+01399,,,,preventative measure - unknown
+01400,,145.78,1312.0,preventive procedure - unknown
+01401,,1.9,6662.0,preventive procedure - unknown
+01402,,0.2,1520.0,preventive procedure - unknown
+01403,,0.59,5981.33,preventive procedure - unknown
+01404,,0.43,5375.23,preventive procedure - unknown
+01407,,,,preventive procedure - unknown
+01408,,,,preventive procedure - unknown
+01409,,,,preventive procedure - unknown
+01410,,42.38,339.0,preventive procedure - unknown
+01414,,,,preventive procedure - unknown
+01415,,,,preventive procedure - unknown
+01425,,,,preventive procedure - unknown
+01440,,117.5,352.51,preventive procedure - unknown
+01441,,,,preventive procedure - unknown
+01442,,,,preventive procedure - unknown
+01450,,,,preventive procedure - unknown
+01467,262.0,262.0,262.0,preventive procedure - unknown
+01470,,,,preventive procedure - unknown
+01474,1000.0,1000.0,1000.0,preventive procedure - unknown
+01479,,13.45,296.0,preventive procedure - unknown
+01480,,248.27,2296.0,preventive procedure - unknown
+01482,,,,preventive procedure - unknown
+01497,,,,preventive procedure - unknown
+01499,,,,preventive procedure - unknown
+01500,,,,space maintainer - unknown
+01501,,3.19,12052.73,space maintainer - unknown
+01502,,0.37,6410.0,space maintainer - unknown
+01503,,,0.01,space maintainer - unknown
+01504,,0.31,1198.0,space maintainer - unknown
+01509,,,,space maintainer - unknown
+01510,,,,space maintainer - fixed unilateral - per quadrant
+01511,,,,space maintainer - unknown
+01513,,,,space maintainer - unknown
+01515,,,,space maintainer - unknown
+01516,,,,space maintainer - fixed - bilateral maxillary
+01517,,,,space maintainer - fixed - bilateral mandibular
+01520,,22.93,172.0,space maintainer - removable unilateral - per quadrant
+01525,,132.5,265.0,space maintainer - unknown
+01526,,,,space maintainer - removable - bilateral maxillary
+01530,,,,space maintainer - unknown
+01548,,,,space maintainer - unknown
+01550,,,,space maintainer - unknown
+01551,,,,re-cement or re-bond bilateral space maintainer - maxillary
+01555,,,,space maintainer - unknown
+01560,,,,space maintainer - unknown
+01573,,,,space maintainer - unknown
+01574,,,,space maintainer - unknown
+01600,,,,preventive procedure - unknown
+01601,,,,preventive procedure - unknown
+01602,,,1.0,preventive procedure - unknown
+01603,,0.62,1288.0,preventive procedure - unknown
+01604,,,,preventive procedure - unknown
+01619,,,,preventive procedure - unknown
+01620,40.0,40.0,40.0,preventive procedure - unknown
+01628,,,,preventive procedure - unknown
+01630,19.76,19.76,19.76,preventive procedure - unknown
+01642,0.21,0.21,0.21,preventive procedure - unknown
+01644,1.2,1.2,1.2,preventive procedure - unknown
+01646,,,,preventive procedure - unknown
+01688,,,,preventive procedure - unknown
+01701,,0.27,1181.71,Pfizer-BioNTech Covid-19 vaccine administration - first dose
+01702,,0.74,6696.0,Pfizer-BioNTech Covid-19 vaccine administration - second dose
+01703,,0.66,2917.91,Moderna Covid-19 vaccine administration - first dose
+01704,,0.13,2098.11,Moderna Covid-19 vaccine administration - second dose
+01705,,0.2,1936.0,AstraZeneca Covid-19 vaccine administration - first dose
+01707,50.0,50.0,50.0,Janssen Covid-19 vaccine administration
+01709,,,,Pfizer-BioNTech Covid-19 vaccine administration - booster dose
+01710,,,,Moderna Covid-19 vaccine administration - third dose
+01711,,,,Moderna Covid-19 vaccine administration - booster dose
+01713,1737.5,1737.5,1737.5,Pfizer-BioNTech Covid-19 vaccine administration tris-sucrose pediatric - first dose
+01714,,25.71,180.0,Pfizer-BioNTech Covid-19 vaccine administration tris-sucrose pediatric - second dose
+01716,,,,vaccine administration - unknown
+01720,,,,vaccine administration - unknown
+01721,,,,vaccine administration - unknown
+01723,,,,vaccine administration - unknown
+01729,615.6,615.6,615.6,vaccine administration - unknown
+01730,,,,vaccine administration - unknown
+01732,21469.0,21469.0,21469.0,vaccine administration - unknown
+01740,,581.34,27100.0,vaccine administration - unknown
+01741,,,,vaccine administration - unknown
+01758,72.31,72.31,72.31,vaccine administration - unknown
+01760,682.0,682.0,682.0,vaccine administration - unknown
+01769,100.0,880.0,1559.4,vaccine administration - unknown
+01778,2723.0,2723.0,2723.0,vaccine administration - unknown
+01799,,,,vaccine administration - unknown
+01801,,0.2,171.0,preventive procedure - unknown
+01802,,,,preventive procedure - unknown
+01803,,0.19,775.0,preventive procedure - unknown
+01804,,,,preventive procedure - unknown
+01805,,,,preventive procedure - unknown
+01806,,,,preventive procedure - unknown
+01810,,112.84,656.0,preventive procedure - unknown
+01819,,,,preventive procedure - unknown
+01820,,202.83,811.33,preventive procedure - unknown
+01830,,90.81,984.0,preventive procedure - unknown
+01844,,,,preventive procedure - unknown
+01851,,,,preventive procedure - unknown
+01874,,92.5,462.5,preventive procedure - unknown
+01880,,,,preventive procedure - unknown
+01885,,,,preventive procedure - unknown
+01887,2012.5,2012.5,2012.5,preventive procedure - unknown
+01894,182.0,182.0,182.0,preventive procedure - unknown
+01895,12490.0,12490.0,12490.0,preventive procedure - unknown
+01897,5285.0,5285.0,5285.0,preventive procedure - unknown
+01898,1033.0,1033.0,1033.0,preventive procedure - unknown
+01899,,,,preventive procedure - unknown
+01900,,37.5,75.0,unspecified preventive procedure - unknown
+01901,,,,unspecified preventive procedure - unknown
+01902,,,,unspecified preventive procedure - unknown
+01903,,,0.33,unspecified preventive procedure - unknown
+01904,,,,unspecified preventive procedure - unknown
+01916,,,,unspecified preventive procedure - unknown
+01919,,,,unspecified preventive procedure - unknown
+01922,,,,unspecified preventive procedure - unknown
+01944,,,,unspecified preventive procedure - unknown
+01953,,,,unspecified preventive procedure - unknown
+01961,,,,unspecified preventive procedure - unknown
+01970,,,,unspecified preventive procedure - unknown
+01971,,,,unspecified preventive procedure - unknown
+01975,,,,unspecified preventive procedure - unknown
+01989,,,,unspecified preventive procedure - unknown
+01991,,375.0,750.0,unspecified preventive procedure - unknown
+01992,,251.01,2065.0,unspecified preventive procedure - unknown
+01996,,,,unspecified preventive procedure - unknown
+01998,,,,unspecified preventive procedure - unknown
+01999,,3.63,937.09,unspecified preventive procedure by report
+02000,,,,preventive procedure - unknown
+02001,,0.16,2204.0,restorative procedure - unknown
+02002,,0.59,43425.03,restorative procedure - unknown
+02003,,0.55,47139.07,restorative procedure - unknown
+02004,,0.44,17082.12,restorative procedure - unknown
+02005,,0.45,2859.0,restorative procedure - unknown
+02006,,,,restorative procedure - unknown
+02007,,,,restorative procedure - unknown
+02008,,,,restorative procedure - unknown
+02010,,,,restorative procedure - unknown
+02011,,27.67,83.0,restorative procedure - unknown
+02012,,5.25,42.0,restorative procedure - unknown
+02014,,,,restorative procedure - unknown
+02020,,,,restorative procedure - unknown
+02021,,,,restorative procedure - unknown
+02022,,,,restorative procedure - unknown
+02023,,,,restorative procedure - unknown
+02024,,12.73,25.46,restorative procedure - unknown
+02025,,43.64,138.0,restorative procedure - unknown
+02027,,,,restorative procedure - unknown
+02033,,,,restorative procedure - unknown
+02035,,,,restorative procedure - unknown
+02036,,15.0,25.0,restorative procedure - unknown
+02037,,37.37,84.5,restorative procedure - unknown
+02038,,15.66,41.89,restorative procedure - unknown
+02039,20.0,20.0,20.0,restorative procedure - unknown
+02043,37.3,66.53,125.0,restorative procedure - unknown
+02044,,,,restorative procedure - unknown
+02050,,,,restorative procedure - unknown
+02052,,,,restorative procedure - unknown
+02055,,,,restorative procedure - unknown
+02066,,,,restorative procedure - unknown
+02070,,,,restorative procedure - unknown
+02072,,,,restorative procedure - unknown
+02074,,37.5,75.0,restorative procedure - unknown
+02083,,,,restorative procedure - unknown
+02090,,466.67,750.0,restorative procedure - unknown
+02099,,,,restorative procedure - unknown
+02100,,,,amalgam - unknown
+02101,,,0.5,amalgam - unknown
+02102,,,,amalgam - unknown
+02103,,,,amalgam - unknown
+02104,,,,amalgam - unknown
+02105,,,,amalgam - unknown
+02106,,,,amalgam - unknown
+02108,,,,amalgam - unknown
+02110,,54.05,1250.0,amalgam - unknown
+02111,,,,amalgam - unknown
+02112,,,,amalgam - unknown
+02115,,,,amalgam - unknown
+02119,,,,amalgam - unknown
+02120,,22.57,158.0,amalgam - unknown
+02121,,150.0,1200.0,amalgam - unknown
+02122,,,,amalgam - unknown
+02123,,,,amalgam - unknown
+02124,,,,amalgam - unknown
+02127,,,,amalgam - unknown
+02129,,,,amalgam - unknown
+02130,,,,amalgam - unknown
+02131,,,,amalgam - unknown
+02134,79.0,79.0,79.0,amalgam - unknown
+02136,,,,amalgam - unknown
+02140,,169.73,58134.0,amalgam - one surface primary or permanent
+02141,,,,amalgam - unknown
+02145,,,,amalgam - unknown
+02146,,,,amalgam - unknown
+02150,,121.51,27223.33,amalgam - two surfaces primary or permanent
+02151,,,,amalgam - unknown
+02154,,,,amalgam - unknown
+02160,,132.82,48988.8,amalgam - three surfaces primary or permanent
+02161,,224.23,32236.0,amalgam - four or more surfaces primary or permanent
+02163,,,,amalgam - unknown
+02166,,,,amalgam - unknown
+02180,,,,amalgam - unknown
+02199,,,,amalgam - unknown
+02200,,,,restorative procedure - unknown
+02203,,,,restorative procedure - unknown
+02204,,,,restorative procedure - unknown
+02210,,,,restorative procedure - unknown
+02211,,,,restorative procedure - unknown
+02212,,,,restorative procedure - unknown
+02217,,,,restorative procedure - unknown
+02220,,24.56,442.0,restorative procedure - unknown
+02221,,20.78,187.0,restorative procedure - unknown
+02222,,,,restorative procedure - unknown
+02223,,,,restorative procedure - unknown
+02225,,,,restorative procedure - unknown
+02230,,494.17,4004.0,restorative procedure - unknown
+02231,,35.51,532.66,restorative procedure - unknown
+02233,,,,restorative procedure - unknown
+02235,,1187.85,6165.66,restorative procedure - unknown
+02248,,,,restorative procedure - unknown
+02250,,20.49,71.7,restorative procedure - unknown
+02261,,,,restorative procedure - unknown
+02270,,74.47,572.0,restorative procedure - unknown
+02274,,,,restorative procedure - unknown
+02275,,,,restorative procedure - unknown
+02293,,,,restorative procedure - unknown
+02300,,,,resin-based composite - unknown
+02302,,,,resin-based composite - unknown
+02306,,,,resin-based composite - unknown
+02309,,,,resin-based composite - unknown
+02310,,,,resin-based composite - unknown
+02311,,118.55,268.0,resin-based composite - unknown
+02314,,,,resin-based composite - unknown
+02318,,,,resin-based composite - unknown
+02322,,,,resin-based composite - unknown
+02323,,,,resin-based composite - unknown
+02325,,,,resin-based composite - unknown
+02328,,,,resin-based composite - unknown
+02329,,,,resin-based composite - unknown
+02330,,121.44,25470.5,resin-based composite - one surface anterior
+02331,,99.23,19964.0,resin-based composite - two surfaces anterior
+02332,,88.01,10394.0,resin-based composite - three surfaces anterior
+02333,,49.57,347.0,resin-based composite - unknown
+02335,,146.45,19000.0,resin-based composite - four or more surfaces or involving incisal angle (anterior)
+02336,,142.5,285.0,resin-based composite - unknown
+02337,,,,resin-based composite - unknown
+02340,,,,resin-based composite - unknown
+02343,,183.75,245.0,resin-based composite - unknown
+02347,,,,resin-based composite - unknown
+02350,,,,resin-based composite - unknown
+02351,,,,resin-based composite - unknown
+02352,,,,resin-based composite - unknown
+02355,,,,resin-based composite - unknown
+02362,,,,resin-based composite - unknown
+02365,,,,resin-based composite - unknown
+02367,,,,resin-based composite - unknown
+02370,,,,resin-based composite - unknown
+02374,28.0,28.0,28.0,resin-based composite - unknown
+02375,97.0,97.0,97.0,resin-based composite - unknown
+02380,,,,resin-based composite - unknown
+02381,,0.42,5.0,resin-based composite - unknown
+02382,,,,resin-based composite - unknown
+02383,,,,resin-based composite - unknown
+02385,,3.62,69.69,resin-based composite - unknown
+02386,,2.66,100.96,resin-based composite - unknown
+02387,,,,resin-based composite - unknown
+02388,,,,resin-based composite - unknown
+02390,,431.16,13175.0,resin-based composite crown anterior
+02391,,174.32,24903.0,resin-based composite - one surface posterior
+02392,,145.87,35421.0,resin-based composite - two surfaces posterior
+02393,,145.68,19556.61,resin-based composite - three surfaces posterior
+02394,,254.96,29784.25,resin-based composite - four or more surfaces posterior
+02397,,,,resin-based composite - unknown
+02400,,,,gold foil - unknown
+02401,,,,gold foil - unknown
+02402,,,,gold foil - unknown
+02403,,,,gold foil - unknown
+02404,,,,gold foil - unknown
+02405,,4.17,9.92,gold foil - unknown
+02406,,,,gold foil - unknown
+02407,,,,gold foil - unknown
+02410,,630.27,4727.0,gold foil - one surface
+02426,,,,gold foil - unknown
+02430,,,,gold foil - three surfaces
+02432,,,,gold foil - unknown
+02438,,,,gold foil - unknown
+02450,,,,gold foil - unknown
+02455,,,,gold foil - unknown
+02461,,,,gold foil - unknown
+02463,,,,gold foil - unknown
+02465,,,,gold foil - unknown
+02466,,,,gold foil - unknown
+02470,,,,gold foil - unknown
+02490,,,,gold foil - unknown
+02491,,,,gold foil - unknown
+02496,,,,gold foil - unknown
+02499,,,,gold foil - unknown
+02501,,78.98,315.91,inlay or onlay - metallic - unknown
+02507,117.25,117.25,117.25,inlay or onlay - metallic - unknown
+02510,,1530.17,8160.0,inlay - metallic - one surface
+02511,,,,inlay or onlay - metallic - unknown
+02514,,,,inlay or onlay - metallic - unknown
+02520,,,,inlay - metallic - two surfaces
+02526,160.0,219.5,279.0,inlay or onlay - metallic - unknown
+02532,585.9,585.9,585.9,inlay or onlay - metallic - unknown
+02537,,,,inlay or onlay - metallic - unknown
+02540,,,,inlay or onlay - metallic - unknown
+02542,,,,onlay - metallic - two surfaces
+02543,,273.0,1365.0,onlay - metallic - three surfaces
+02544,,3351.4,32148.0,onlay - metallic - four or more surfaces
+02550,,36.06,131.0,inlay or onlay - metallic - unknown
+02553,,8.8,44.0,inlay or onlay - metallic - unknown
+02557,,,,inlay or onlay - metallic - unknown
+02565,168.62,168.62,168.62,inlay or onlay - metallic - unknown
+02570,6.85,6.85,6.85,inlay or onlay - metallic - unknown
+02571,,,,inlay or onlay - metallic - unknown
+02572,,,,inlay or onlay - metallic - unknown
+02574,,,,inlay or onlay - metallic - unknown
+02576,,,,inlay or onlay - metallic - unknown
+02579,,,,inlay or onlay - metallic - unknown
+02591,,,,inlay or onlay - metallic - unknown
+02592,,,,inlay or onlay - metallic - unknown
+02603,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02605,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02607,,281.54,492.69,inlay or onlay - porcelain/ceramic/resin - unknown
+02610,,226.47,2750.17,inlay - porcelain/ceramic - one surface
+02611,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02613,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02620,,,0.01,inlay - porcelain/ceramic - two surfaces
+02622,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02630,,68.93,1567.14,inlay - porcelain/ceramic - three or more surfaces
+02632,300.0,300.0,300.0,inlay or onlay - porcelain/ceramic/resin - unknown
+02642,,,,onlay - porcelain/ceramic - two surfaces
+02643,,0.08,1.0,onlay - porcelain/ceramic - three surfaces
+02644,,148.1,7792.5,onlay - porcelain/ceramic - four or more surfaces
+02650,,678.81,20081.0,inlay - resin-based composite - one surface
+02651,,26.25,1575.0,inlay - resin-based composite - two surfaces
+02652,,663.67,4550.0,inlay - resin-based composite - three or more surfaces
+02654,,144.0,288.0,inlay or onlay - porcelain/ceramic/resin - unknown
+02662,,529.74,8620.32,onlay - resin-based composite - two surfaces
+02663,,147.57,1442.0,onlay - resin-based composite - three surfaces
+02664,,130.73,1548.0,onlay - resin-based composite - four or more surfaces
+02677,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02691,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02692,,70.0,350.0,inlay or onlay - porcelain/ceramic/resin - unknown
+02699,,,,inlay or onlay - porcelain/ceramic/resin - unknown
+02700,,3.9,63.0,crown - unknown
+02701,,,,crown - unknown
+02703,,10.0,25.0,crown - unknown
+02704,,,,crown - unknown
+02706,,,,crown - unknown
+02709,,,,crown - unknown
+02710,,165.11,13552.0,crown - resin-based composite (indirect)
+02711,,,,crown - unknown
+02712,,,,crown - ¬æ resin-based composite (indirect)
+02713,,,,crown - unknown
+02715,,,,crown - unknown
+02718,,,,crown - unknown
+02720,,114.55,1260.0,crown - resin with high noble metal
+02721,,,,crown - resin with predominantly base metal
+02722,,0.5,1.0,crown - resin with noble metal
+02728,367.25,367.25,367.25,crown - unknown
+02729,,,,crown - unknown
+02730,,,,crown - unknown
+02739,,,,crown - unknown
+02740,,33.0,18577.0,crown - porcelain/ceramic
+02741,,110.67,664.0,crown - unknown
+02744,,,,crown - unknown
+02745,,,,crown - unknown
+02746,,65.5,131.0,crown - unknown
+02749,,,,crown - unknown
+02750,,35.52,3200.0,crown - porcelain fused to high noble metal
+02751,,52.07,2190.51,crown - porcelain fused to predominantly base metal
+02752,,40.62,11872.04,crown - porcelain fused to noble metal
+02753,,,,crown - porcelain fused to titanium and titanium alloys
+02754,,,,crown - unknown
+02755,,,,crown - unknown
+02756,,,,crown - unknown
+02760,,,,crown - unknown
+02761,,,,crown - unknown
+02764,,,,crown - unknown
+02771,,,,crown - unknown
+02777,,,,crown - unknown
+02780,,218.51,1311.07,crown - 3/4 cast high noble metal
+02781,,,,crown - 3/4 cast predominantly base metal
+02782,,,,crown - 3/4 cast noble metal
+02783,,,,crown - 3/4 porcelain/ceramic
+02784,,,,crown - unknown
+02786,,,,crown - unknown
+02788,,,,crown - unknown
+02790,,11.38,1162.37,crown - full cast high noble metal
+02791,,21.62,600.0,crown - full cast predominantly base metal
+02792,,50.51,1240.05,crown - full cast noble metal
+02794,,,,crown - titanium and titanium alloys
+02795,,,,crown - unknown
+02798,,,,crown - unknown
+02799,,50.37,3248.4,interim crown - further treatment or completion of diagnosis necessary prior to final impression
+02820,,,,restorative procedure - unknown
+02837,,,,restorative procedure - unknown
+02840,,8.57,120.0,restorative procedure - unknown
+02841,,,,restorative procedure - unknown
+02846,,,,restorative procedure - unknown
+02849,,,,restorative procedure - unknown
+02850,,,,restorative procedure - unknown
+02886,,,,restorative procedure - unknown
+02889,,,,restorative procedure - unknown
+02890,,,,restorative procedure - unknown
+02891,,,,restorative procedure - unknown
+02892,,,,restorative procedure - unknown
+02899,,,,restorative procedure - unknown
+02900,,,,restoration or repair - unknown
+02910,,591.3,15008.5,re-cement or re-bond inlay onlay veneer or partial coverage restoration
+02911,,,,restoration or repair - unknown
+02915,,263.88,1440.0,re-cement or re-bond indirectly fabricated or prefabricated post and core
+02920,,15.79,10734.5,re-cement or re-bond crown
+02921,,73.98,641.2,reattachment of tooth fragment incisal edge or cusp
+02922,,,,restoration or repair - unknown
+02928,,1.2,2.0,prefabricated porcelain/ceramic crown - permanent tooth
+02929,,,,prefabricated porcelain/ceramic crown - primary tooth
+02930,,320.24,15627.5,prefabricated stainless steel crown - primary tooth
+02931,,226.26,16000.0,prefabricated stainless steel crown - permanent tooth
+02932,,87.32,5249.33,prefabricated resin crown
+02933,,224.94,7557.73,prefabricated stainless steel crown with resin window
+02934,,0.08,1.0,prefabricated esthetic coated stainless steel crown - primary tooth
+02935,,,,restoration or repair - unknown
+02939,,52.5,210.0,restoration or repair - unknown
+02940,,546.34,26863.0,protective restoration
+02941,,916.84,7896.67,interim therapeutic restoration - primary dentition
+02944,,,,restoration or repair - unknown
+02945,,,,restoration or repair - unknown
+02947,,44.22,108.88,restoration or repair - unknown
+02948,,,,restoration or repair - unknown
+02949,,,,restorative foundation for an indirect restoration
+02950,,10.17,11716.0,core buildup including any pins when required
+02951,,10.99,275.0,pin retention - per tooth in addition to restoration
+02952,,10.96,1883.33,post and core in addition to crown indirectly fabricated
+02953,,96.11,480.55,each additional indirectly fabricated post - same tooth
+02954,,8.7,718.0,prefabricated post and core in addition to crown
+02955,,47.04,4422.0,post removal
+02957,,28.18,155.0,each additional prefabricated post - same tooth
+02959,,,,restoration or repair - unknown
+02960,,27.48,1211.75,labial veneer (resin laminate) - direct
+02961,,29.06,177.0,labial veneer (resin laminate) - indirect
+02962,,9.88,1822.0,labial veneer (porcelain laminate) - indirect
+02964,,,,restoration or repair - unknown
+02965,,21.43,300.0,restoration or repair - unknown
+02970,,42.01,3843.35,restoration or repair - unknown
+02971,,0.01,1.0,additional procedures to customize a crown to fit under an existing partial denture framework
+02975,,,,coping
+02979,,,,restoration or repair - unknown
+02980,,11.63,305.0,crown repair necessitated by restorative material failure
+02981,,,,inlay repair necessitated by restorative material failure
+02982,,,,onlay repair necessitated by restorative material failure
+02983,,,,veneer repair necessitated by restorative material failure
+02990,,62.72,2320.66,resin infiltration of incipient smooth surface lesions
+02991,,,,restoration or repair - unknown
+02992,,,,restoration or repair - unknown
+02997,,50.0,75.0,restoration or repair - unknown
+02998,,,,restoration or repair - unknown
+02999,,466.28,45200.0,unspecified restorative procedure by report
+03000,,,,restorative procedure - unknown
+03001,,,,endodontics procedure - unknown
+03002,,45.0,90.0,endodontics procedure - unknown
+03003,,,,endodontics procedure - unknown
+03005,,116.0,145.0,endodontics procedure - unknown
+03010,,12.86,64.48,endodontics procedure - unknown
+03016,,,,endodontics procedure - unknown
+03020,,,,endodontics procedure - unknown
+03024,,,,endodontics procedure - unknown
+03026,,,,endodontics procedure - unknown
+03027,,,,endodontics procedure - unknown
+03029,,,,endodontics procedure - unknown
+03030,,,,endodontics procedure - unknown
+03031,,,,endodontics procedure - unknown
+03036,,,,endodontics procedure - unknown
+03037,,,,endodontics procedure - unknown
+03044,,,,endodontics procedure - unknown
+03058,,,,endodontics procedure - unknown
+03059,,,,endodontics procedure - unknown
+03065,,,,endodontics procedure - unknown
+03067,,,,endodontics procedure - unknown
+03072,,,,endodontics procedure - unknown
+03090,,,,endodontics procedure - unknown
+03100,,,,pulp cap - unknown
+03102,,,,pulp cap - unknown
+03109,,,,pulp cap - unknown
+03110,,88.7,5361.5,pulp cap - direct (excluding final restoration)
+03120,,33.11,1248.18,pulp cap - indirect (excluding final restoration)
+03125,,,,pulp cap - unknown
+03140,,,,pulp cap - unknown
+03160,,84.5,169.0,pulp cap - unknown
+03170,,,,pulp cap - unknown
+03179,,,,pulp cap - unknown
+03199,,,,pulp cap - unknown
+03200,,162.5,325.0,pulpal procedure - unknown
+03210,,,,pulpal procedure - unknown
+03211,13211.89,13211.89,13211.89,pulpal procedure - unknown
+03220,,159.65,5808.0,therapeutic pulpotomy (excluding final restoration) - removal of pulp coronal to the dentinocemental junction and application of medicament
+03221,,236.74,9504.0,pulpal debridement primary and permanent teeth
+03222,,,,partial pulpotomy for apexogenesis - permanent tooth with incomplete root development
+03223,250.0,250.0,250.0,pulpal procedure - unknown
+03224,,,,pulpal procedure - unknown
+03226,,,,pulpal procedure - unknown
+03229,,,,pulpal procedure - unknown
+03230,,16.21,891.6,pulpal therapy (resorbable filling) - anterior primary tooth (excluding final restoration)
+03240,,46.42,382.0,pulpal therapy (resorbable filling) - posterior primary tooth (excluding final restoration)
+03241,,337.5,450.0,pulpal procedure - unknown
+03242,,,,pulpal procedure - unknown
+03244,,,,pulpal procedure - unknown
+03246,,,,pulpal procedure - unknown
+03255,,,,pulpal procedure - unknown
+03258,,,,pulpal procedure - unknown
+03260,,,,pulpal procedure - unknown
+03273,859.0,859.0,859.0,pulpal procedure - unknown
+03292,,,,pulpal procedure - unknown
+03299,,,,pulpal procedure - unknown
+03300,,,,endodontic procedure - unknown
+03301,,,,endodontic procedure - unknown
+03303,,,,endodontic procedure - unknown
+03307,,,,endodontic procedure - unknown
+03308,,,,endodontic procedure - unknown
+03310,,54.92,20779.56,endodontic therapy anterior tooth (excluding final restoration)
+03311,,,,endodontic procedure - unknown
+03312,,,,endodontic procedure - unknown
+03314,,,,endodontic procedure - unknown
+03315,,,,endodontic procedure - unknown
+03318,,,,endodontic procedure - unknown
+03320,,77.26,22248.0,endodontic therapy premolar tooth (excluding final restoration)
+03325,358.3,358.3,358.3,endodontic procedure - unknown
+03330,,52.95,5602.0,endodontic therapy molar tooth (excluding final restoration)
+03331,,237.58,31255.0,treatment of root canal obstruction; non-surgical access
+03332,,16.99,691.26,incomplete endodontic therapy; inoperable unrestorable or fractured tooth
+03333,,,,internal root repair of perforation defects
+03339,,915.0,1950.0,endodontic procedure - unknown
+03340,,,,endodontic procedure - unknown
+03342,,,,endodontic procedure - unknown
+03346,,20.24,1376.25,retreatment of previous root canal therapy - anterior
+03347,,43.1,1680.0,retreatment of previous root canal therapy - premolar
+03348,,16.57,1550.0,retreatment of previous root canal therapy - molar
+03350,,,,endodontic procedure - unknown
+03351,,,,apexification/recalcification - initial visit (apical closure/calcific repair of perforations root resorption etc.)
+03352,,,,apexification/recalcification - interim medication replacement
+03353,,204.29,1430.0,apexification/recalcification - final visit (includes completed root canal therapy - apical closure/calcific repair of perforations root resorption etc.)
+03356,,,,pulpal regeneration - interim medication replacement
+03370,,,,endodontic procedure - unknown
+03373,,,,endodontic procedure - unknown
+03380,,,,endodontic procedure - unknown
+03382,,,,endodontic procedure - unknown
+03384,,,,endodontic procedure - unknown
+03389,,,,endodontic procedure - unknown
+03390,,,,endodontic procedure - unknown
+03392,,,,endodontic procedure - unknown
+03402,,,,endodontic procedure - unknown
+03408,,5.0,20.0,endodontic procedure - unknown
+03410,,36.43,5755.5,apicoectomy - anterior
+03411,,,,endodontic procedure - unknown
+03420,,,,endodontic procedure - unknown
+03421,,17.43,5817.66,apicoectomy - premolar (first root)
+03422,,,,endodontic procedure - unknown
+03425,,8.9,2904.0,apicoectomy - molar (first root)
+03426,,,1.0,apicoectomy (each additional root)
+03427,,,,endodontic procedure - unknown
+03428,,,,bone graft in conjunction with periradicular surgery - per tooth single site
+03429,,,,bone graft in conjunction with periradicular surgery - each additional contiguous tooth in the same surgical site
+03430,,2.74,2488.18,retrograde filling - per root
+03431,,84.95,3313.1,biologic materials to aid in soft and osseous tissue regeneration in conjunction with periradicular surgery
+03432,,,,guided tissue regeneration resorbable barrier per site in conjunction with periradicular surgery
+03433,,,,endodontic procedure - unknown
+03434,,,,endodontic procedure - unknown
+03435,,,,endodontic procedure - unknown
+03440,,,,endodontic procedure - unknown
+03441,,,,endodontic procedure - unknown
+03450,,,,root amputation - per root
+03460,,1480.78,7330.0,endodontic endosseous implant
+03470,,,,intentional re-implantation (including necessary splinting)
+03472,,,,surgical repair of root resorption - premolar
+03473,,,,surgical repair of root resorption - molar
+03485,,,,endodontic procedure - unknown
+03489,1732.21,1732.21,1732.21,endodontic procedure - unknown
+03490,,1.4,35.0,endodontic procedure - unknown
+03499,,,,endodontic procedure - unknown
+03500,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03501,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - anterior
+03510,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03516,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03525,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03526,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03530,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03533,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03560,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03562,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03587,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03590,,,,surgical exposure of root surface without apicoectomy or repair of root resorption - unknown
+03610,,,,endodontics procedure - unknown
+03615,,68.1,136.2,endodontics procedure - unknown
+03620,723.14,723.14,723.14,endodontics procedure - unknown
+03641,,,,endodontics procedure - unknown
+03642,1447.0,1447.0,1447.0,endodontics procedure - unknown
+03659,,,,endodontics procedure - unknown
+03661,,,,endodontics procedure - unknown
+03711,,,,endodontics procedure - unknown
+03718,,,,endodontics procedure - unknown
+03721,,,,endodontics procedure - unknown
+03730,,50.0,400.0,endodontics procedure - unknown
+03731,,,,endodontics procedure - unknown
+03732,,,,endodontics procedure - unknown
+03733,,,,endodontics procedure - unknown
+03734,,,,endodontics procedure - unknown
+03735,,24.25,97.0,endodontics procedure - unknown
+03739,,,,endodontics procedure - unknown
+03798,525.0,525.0,525.0,endodontics procedure - unknown
+03799,,49.25,197.0,endodontics procedure - unknown
+03810,,,,endodontics procedure - unknown
+03825,47.0,47.0,47.0,endodontics procedure - unknown
+03830,,,,endodontics procedure - unknown
+03880,,,,endodontics procedure - unknown
+03901,,,,unspecified endodontic procedure - unknown
+03902,,7394.17,14145.0,unspecified endodontic procedure - unknown
+03910,,,,surgical procedure for isolation of tooth with rubber dam
+03911,,,,intraorifice barrier
+03920,,,,hemisection (including any root removal) not including root canal therapy
+03930,,,,unspecified endodontic procedure - unknown
+03940,,,,unspecified endodontic procedure - unknown
+03950,,,,canal preparation and fitting of preformed dowel or post
+03960,,,,unspecified endodontic procedure - unknown
+03961,,11.5,69.0,unspecified endodontic procedure - unknown
+03962,,,,unspecified endodontic procedure - unknown
+03963,,50.0,100.0,unspecified endodontic procedure - unknown
+03965,,,,unspecified endodontic procedure - unknown
+03970,40.0,40.0,40.0,unspecified endodontic procedure - unknown
+03971,,,,unspecified endodontic procedure - unknown
+03981,31900.0,31900.0,31900.0,unspecified endodontic procedure - unknown
+03992,,,,unspecified endodontic procedure - unknown
+03999,,371.91,4245.81,unspecified endodontic procedure by report
+04000,,2.0,30.0,endodontics procedure - unknown
+04001,,,,periodontics procedure - unknown
+04002,,,,periodontics procedure - unknown
+04003,,,,periodontics procedure - unknown
+04005,,,,periodontics procedure - unknown
+04006,,,,periodontics procedure - unknown
+04010,,,,periodontics procedure - unknown
+04011,,,,periodontics procedure - unknown
+04013,,,,periodontics procedure - unknown
+04018,,75.0,225.0,periodontics procedure - unknown
+04020,,,,periodontics procedure - unknown
+04021,,,,periodontics procedure - unknown
+04022,,,,periodontics procedure - unknown
+04023,,,,periodontics procedure - unknown
+04024,,,,periodontics procedure - unknown
+04025,,,,periodontics procedure - unknown
+04026,,,,periodontics procedure - unknown
+04028,,,,periodontics procedure - unknown
+04034,,19.6,39.2,periodontics procedure - unknown
+04035,,,,periodontics procedure - unknown
+04037,,,,periodontics procedure - unknown
+04038,,,,periodontics procedure - unknown
+04046,,,,periodontics procedure - unknown
+04048,,,,periodontics procedure - unknown
+04049,,,,periodontics procedure - unknown
+04050,,,,periodontics procedure - unknown
+04051,,,,periodontics procedure - unknown
+04052,,,,periodontics procedure - unknown
+04055,,,,periodontics procedure - unknown
+04060,,,,periodontics procedure - unknown
+04061,,,,periodontics procedure - unknown
+04062,,,,periodontics procedure - unknown
+04070,,,,periodontics procedure - unknown
+04080,,32.86,460.0,periodontics procedure - unknown
+04081,,27.56,200.0,periodontics procedure - unknown
+04082,,,,periodontics procedure - unknown
+04086,,,,periodontics procedure - unknown
+04087,,,,periodontics procedure - unknown
+04100,,12.87,127.96,periodontics procedure - unknown
+04101,,,,periodontics procedure - unknown
+04102,,10.87,21.6,periodontics procedure - unknown
+04103,,,,periodontics procedure - unknown
+04104,,,,periodontics procedure - unknown
+04110,,1.62,30.0,periodontics procedure - unknown
+04111,,,,periodontics procedure - unknown
+04112,,,,periodontics procedure - unknown
+04120,,,,periodontics procedure - unknown
+04132,,7.0,14.0,periodontics procedure - unknown
+04140,,,,periodontics procedure - unknown
+04150,,,,periodontics procedure - unknown
+04152,,6.55,65.52,periodontics procedure - unknown
+04154,,,,periodontics procedure - unknown
+04155,118.5,118.5,118.5,periodontics procedure - unknown
+04162,,,,periodontics procedure - unknown
+04165,124.0,124.0,124.0,periodontics procedure - unknown
+04166,187.5,187.5,187.5,periodontics procedure - unknown
+04172,,,,periodontics procedure - unknown
+04176,3886.0,3886.0,3886.0,periodontics procedure - unknown
+04182,,,,periodontics procedure - unknown
+04185,,,,periodontics procedure - unknown
+04187,,,,periodontics procedure - unknown
+04189,,266.67,400.0,periodontics procedure - unknown
+04193,,,,periodontics procedure - unknown
+04199,133.33,266.67,400.0,periodontics procedure - unknown
+04200,,,,tissue procedure - unknown
+04203,,,,tissue procedure - unknown
+04205,,,,tissue procedure - unknown
+04209,,,,tissue procedure - unknown
+04210,,208.22,9887.5,gingivectomy or gingivoplasty - four or more contiguous teeth or tooth bounded spaces per quadrant
+04211,,155.67,9504.0,gingivectomy or gingivoplasty - one to three contiguous teeth or tooth bounded spaces per quadrant
+04212,,72.04,4523.33,gingivectomy or gingivoplasty to allow access for restorative procedure per tooth
+04215,,,,tissue procedure - unknown
+04220,,,,tissue procedure - unknown
+04221,,,,tissue procedure - unknown
+04226,,,,tissue procedure - unknown
+04227,,,,tissue procedure - unknown
+04230,,1696.85,5090.55,anatomical crown exposure - four or more contiguous teeth or tooth bounded spaces per quadrant
+04231,,,,anatomical crown exposure - one to three teeth or tooth bounded spaces per quadrant
+04237,,,,tissue procedure - unknown
+04239,,,,tissue procedure - unknown
+04240,,54.64,4318.8,gingival flap procedure including root planing - four or more contiguous teeth or tooth bounded spaces per quadrant
+04241,,18.96,936.0,gingival flap procedure including root planing - one to three contiguous teeth or tooth bounded spaces per quadrant
+04242,,,,tissue procedure - unknown
+04245,,0.02,1.0,apically positioned flap
+04248,,,,tissue procedure - unknown
+04249,,15.12,1122.0,clinical crown lengthening - hard tissue
+04250,,,,tissue procedure - unknown
+04251,,,,tissue procedure - unknown
+04252,,,,tissue procedure - unknown
+04253,,,,tissue procedure - unknown
+04254,,,,tissue procedure - unknown
+04256,,,,tissue procedure - unknown
+04257,,,,tissue procedure - unknown
+04258,,,,tissue procedure - unknown
+04259,,,,tissue procedure - unknown
+04260,,129.17,10414.5,osseous surgery (including elevation of a full thickness flap and closure) - four or more contiguous teeth or tooth bounded spaces per quadrant
+04261,,10.77,1685.0,osseous surgery (including elevation of a full thickness flap and closure) - one to three contiguous teeth or tooth bounded spaces per quadrant
+04262,,,,tissue procedure - unknown
+04263,,25.86,3604.36,bone replacement graft - retained natural tooth - first site in quadrant
+04264,,70.52,2878.0,bone replacement graft - retained natural tooth - each additional site in quadrant
+04265,,6.42,4394.66,biologic materials to aid in soft and osseous tissue regeneration per site
+04266,,25.33,10311.0,guided tissue regeneration natural teeth - resorbable barrier per site
+04267,,2.72,1297.85,guided tissue regeneration natural teeth - non-resorbable barrier per site
+04268,,90.43,1457.0,surgical revision procedure per tooth
+04269,,,,tissue procedure - unknown
+04270,,104.36,4245.81,pedicle soft tissue graft procedure
+04271,,40.0,8278.0,tissue procedure - unknown
+04273,,54.16,8783.0,autogenous connective tissue graft procedure (including donor and recipient surgical sites) first tooth implant or edentulous tooth position in graft
+04274,,0.06,1.0,mesial/distal wedge procedure single tooth (when not performed in conjunction with surgical procedures in the same anatomical area)
+04275,,6.49,1585.29,non-autogenous connective tissue graft (including recipient site and donor material) first tooth implant or edentulous tooth position in graft
+04276,,,,combined connective tissue and pedicle graft per tooth
+04277,,0.87,412.43,free soft tissue graft procedure (including recipient and donor surgical sites) first tooth implant or edentulous tooth position in graft
+04278,,,,free soft tissue graft procedure (including recipient and donor surgical sites) each additional contiguous tooth implant or edentulous tooth position in same graft site
+04280,,,,tissue procedure - unknown
+04281,,,,tissue procedure - unknown
+04283,,7.33,462.05,autogenous connective tissue graft procedure (including donor and recipient surgical sites) - each additional contiguous tooth implant or edentulous tooth position in same graft site
+04285,,,,non-autogenous connective tissue graft procedure (including recipient surgical site and donor material) - each additional contiguous tooth implant or edentulous tooth position in same graft site
+04286,,13.89,250.0,removal of non-resorbable barrier
+04287,,,,tissue procedure - unknown
+04289,,,,tissue procedure - unknown
+04291,,,,tissue procedure - unknown
+04292,,,,tissue procedure - unknown
+04293,,,,tissue procedure - unknown
+04295,,,,tissue procedure - unknown
+04299,,,,tissue procedure - unknown
+04300,,,,periodontic procedure - unknown
+04310,,17.14,30.0,periodontic procedure - unknown
+04314,,,,periodontic procedure - unknown
+04320,,1.61,123.0,periodontic procedure - unknown
+04321,,15.1,736.0,periodontic procedure - unknown
+04322,,46.88,187.5,splint - intra-coronal; natural teeth or prosthetic crowns
+04323,,176.89,1080.0,splint - extra-coronal; natural teeth or prosthetic crowns
+04324,,,,periodontic procedure - unknown
+04325,,,,periodontic procedure - unknown
+04326,,,,periodontic procedure - unknown
+04327,,,,periodontic procedure - unknown
+04330,,,,periodontic procedure - unknown
+04331,,,,periodontic procedure - unknown
+04332,,,,periodontic procedure - unknown
+04333,,,,periodontic procedure - unknown
+04335,,,,periodontic procedure - unknown
+04337,,,,periodontic procedure - unknown
+04338,,,,periodontic procedure - unknown
+04340,,,,periodontic procedure - unknown
+04341,,156.56,76205.0,periodontal scaling and root planing - four or more teeth per quadrant
+04342,,126.04,10598.25,periodontal scaling and root planing - one to three teeth per quadrant
+04344,,,,periodontic procedure - unknown
+04345,,,,periodontic procedure - unknown
+04346,,1110.66,24191.0,scaling in presence of generalized moderate or severe gingival inflammation - full mouth after oral evaluation
+04347,,,,periodontic procedure - unknown
+04349,,,,periodontic procedure - unknown
+04350,,,,periodontic procedure - unknown
+04355,,735.12,24255.0,full mouth debridement to enable a comprehensive periodontal evaluation and diagnosis on a subsequent visit
+04359,,,,periodontic procedure - unknown
+04360,,,,periodontic procedure - unknown
+04361,,,,periodontic procedure - unknown
+04362,,,,periodontic procedure - unknown
+04364,,31.0,62.0,periodontic procedure - unknown
+04365,,,,periodontic procedure - unknown
+04367,,,,periodontic procedure - unknown
+04371,,267.47,300.9,periodontic procedure - unknown
+04376,,,,periodontic procedure - unknown
+04380,,,,periodontic procedure - unknown
+04381,,2.68,2718.54,localized delivery of antimicrobial agents via a controlled release vehicle into diseased crevicular tissue per tooth
+04382,,,,periodontic procedure - unknown
+04396,,,,periodontic procedure - unknown
+04397,,,,periodontic procedure - unknown
+04399,,,,periodontic procedure - unknown
+04400,,25.0,50.0,periodontics procedure - unknown
+04403,,,,periodontics procedure - unknown
+04404,,,,periodontics procedure - unknown
+04407,,,,periodontics procedure - unknown
+04414,,,,periodontics procedure - unknown
+04419,,,,periodontics procedure - unknown
+04438,,,,periodontics procedure - unknown
+04439,25.45,25.45,25.45,periodontics procedure - unknown
+04443,,28.7,114.81,periodontics procedure - unknown
+04449,,,,periodontics procedure - unknown
+04450,,,,periodontics procedure - unknown
+04455,,,,periodontics procedure - unknown
+04460,,,,periodontics procedure - unknown
+04478,77.87,77.87,77.87,periodontics procedure - unknown
+04480,,,,periodontics procedure - unknown
+04481,,,,periodontics procedure - unknown
+04482,,,,periodontics procedure - unknown
+04484,,,,periodontics procedure - unknown
+04486,,,,periodontics procedure - unknown
+04489,,,,periodontics procedure - unknown
+04499,,,,periodontics procedure - unknown
+04500,,,,periodontics procedure - unknown
+04502,,,,periodontics procedure - unknown
+04520,,,,periodontics procedure - unknown
+04525,,,,periodontics procedure - unknown
+04533,,108.13,216.25,periodontics procedure - unknown
+04550,,,,periodontics procedure - unknown
+04580,,72.0,180.0,periodontics procedure - unknown
+04596,,,,periodontics procedure - unknown
+04609,,,,periodontics procedure - unknown
+04610,,,,periodontics procedure - unknown
+04612,,,,periodontics procedure - unknown
+04621,,,,periodontics procedure - unknown
+04625,,,,periodontics procedure - unknown
+04626,,,,periodontics procedure - unknown
+04640,,,,periodontics procedure - unknown
+04641,,,,periodontics procedure - unknown
+04648,,,,periodontics procedure - unknown
+04649,,,,periodontics procedure - unknown
+04653,,,,periodontics procedure - unknown
+04657,8.39,8.39,8.39,periodontics procedure - unknown
+04685,,,,periodontics procedure - unknown
+04700,,,,periodontics procedure - unknown
+04710,,,,periodontics procedure - unknown
+04711,,,,periodontics procedure - unknown
+04721,,,,periodontics procedure - unknown
+04725,,375.0,750.0,periodontics procedure - unknown
+04726,,,,periodontics procedure - unknown
+04735,,,,periodontics procedure - unknown
+04739,,,,periodontics procedure - unknown
+04760,,,,periodontics procedure - unknown
+04803,,,,periodontics procedure - unknown
+04808,,,,periodontics procedure - unknown
+04815,,,,periodontics procedure - unknown
+04859,,,,periodontics procedure - unknown
+04860,,,,periodontics procedure - unknown
+04882,,,,periodontics procedure - unknown
+04900,,,,unspecified periodontal procedure - unknown
+04904,,60.0,120.0,unspecified periodontal procedure - unknown
+04908,,,,unspecified periodontal procedure - unknown
+04910,,3.91,5216.64,periodontal maintenance
+04911,,70.0,175.0,unspecified periodontal procedure - unknown
+04912,,,,unspecified periodontal procedure - unknown
+04915,,,,unspecified periodontal procedure - unknown
+04920,,0.1,42.5,unscheduled dressing change (by someone other than treating dentist or their staff)
+04921,,0.22,22.0,gingival irrigation with a medicinal agent - per quadrant
+04922,,,,unspecified periodontal procedure - unknown
+04931,,,,unspecified periodontal procedure - unknown
+04936,,,,unspecified periodontal procedure - unknown
+04940,,11.11,50.0,unspecified periodontal procedure - unknown
+04950,,,,unspecified periodontal procedure - unknown
+04968,,,,unspecified periodontal procedure - unknown
+04990,,16.25,65.0,unspecified periodontal procedure - unknown
+04991,,,,unspecified periodontal procedure - unknown
+04994,,160.0,400.0,unspecified periodontal procedure - unknown
+04997,,10.89,32.5,unspecified periodontal procedure - unknown
+04998,,,,unspecified periodontal procedure - unknown
+04999,,13.75,2644.5,unspecified periodontal procedure by report
+05000,,0.95,21.0,periodontics procedure - unknown
+05001,,22.83,189.48,prosthodontics - removable procedure - unknown
+05002,,49.13,229.4,prosthodontics - removable procedure - unknown
+05003,,,,prosthodontics - removable procedure - unknown
+05004,,,,prosthodontics - removable procedure - unknown
+05005,,127.28,636.38,prosthodontics - removable procedure - unknown
+05006,600.0,600.0,600.0,prosthodontics - removable procedure - unknown
+05007,500.0,500.0,500.0,prosthodontics - removable procedure - unknown
+05010,,461.54,2400.0,prosthodontics - removable procedure - unknown
+05011,,,,prosthodontics - removable procedure - unknown
+05018,,,,prosthodontics - removable procedure - unknown
+05022,,,,prosthodontics - removable procedure - unknown
+05025,,46.95,190.67,prosthodontics - removable procedure - unknown
+05030,,,,prosthodontics - removable procedure - unknown
+05040,,,,prosthodontics - removable procedure - unknown
+05041,,,,prosthodontics - removable procedure - unknown
+05043,,,,prosthodontics - removable procedure - unknown
+05045,,30.0,75.0,prosthodontics - removable procedure - unknown
+05049,,,,prosthodontics - removable procedure - unknown
+05055,,,,prosthodontics - removable procedure - unknown
+05056,,,,prosthodontics - removable procedure - unknown
+05057,,,,prosthodontics - removable procedure - unknown
+05060,,,,prosthodontics - removable procedure - unknown
+05061,,,,prosthodontics - removable procedure - unknown
+05063,3.0,3.0,3.0,prosthodontics - removable procedure - unknown
+05080,,,,prosthodontics - removable procedure - unknown
+05088,,,,prosthodontics - removable procedure - unknown
+05100,,,,denture - unknown
+05101,,,,denture - unknown
+05102,,,,denture - unknown
+05103,,,,denture - unknown
+05104,,,,denture - unknown
+05107,,,,denture - unknown
+05108,,,,denture - unknown
+05109,,,,denture - unknown
+05110,,88.98,5027.9,complete denture - maxillary
+05111,,,,denture - unknown
+05112,,419.4,629.1,denture - unknown
+05115,,438.65,1652.0,denture - unknown
+05117,,,,denture - unknown
+05118,,,,denture - unknown
+05120,,81.52,4251.38,complete denture - mandibular
+05124,,,,denture - unknown
+05125,,,,denture - unknown
+05130,,37.83,3216.0,immediate denture - maxillary
+05131,,,,denture - unknown
+05132,,313.37,1099.0,denture - unknown
+05134,,,,denture - unknown
+05135,,61.91,1981.0,denture - unknown
+05138,,,,denture - unknown
+05139,,,,denture - unknown
+05140,,25.97,2649.78,immediate denture - mandibular
+05141,359.0,359.0,359.0,denture - unknown
+05142,,180.67,1099.0,denture - unknown
+05144,,,,denture - unknown
+05145,,232.12,1981.0,denture - unknown
+05146,516.0,516.0,516.0,denture - unknown
+05147,516.0,516.0,516.0,denture - unknown
+05149,,,,denture - unknown
+05150,,,,denture - unknown
+05164,325.0,325.0,325.0,denture - unknown
+05165,25.0,25.0,25.0,denture - unknown
+05166,,,,denture - unknown
+05190,,,,denture - unknown
+05199,,,,denture - unknown
+05200,,47.8,478.0,denture - unknown
+05202,,,,denture - unknown
+05203,,,,denture - unknown
+05204,,,,denture - unknown
+05210,,,,denture - unknown
+05211,,63.8,3568.0,maxillary partial denture - resin base (including retentive/clasping materials rests and teeth)
+05212,,43.66,3925.0,mandibular partial denture - resin base (including retentive/clasping materials rests and teeth)
+05213,,94.35,3568.0,maxillary partial denture - cast metal framework with resin denture bases (including retentive/clasping materials rests and teeth)
+05214,,102.32,3925.0,mandibular partial denture - cast metal framework with resin denture bases (including retentive/clasping materials rests and teeth)
+05215,,,,denture - unknown
+05220,,,,denture - unknown
+05221,,,,immediate maxillary partial denture - resin base (including retentive/clasping materials rests and teeth)
+05222,,,,immediate mandibular partial denture - resin base (including retentive/clasping materials rests and teeth)
+05223,,31.25,250.0,immediate maxillary partial denture - cast metal framework with resin denture bases (including retentive/clasping materials rests and teeth)
+05224,,,,immediate mandibular partial denture - cast metal framework with resin denture bases (including retentive/clasping materials rests and teeth)
+05225,,148.01,2632.77,maxillary partial denture - flexible base (including retentive/clasping materials rests and teeth)
+05226,,65.36,2426.14,mandibular partial denture - flexible base (including retentive/clasping materials rests and teeth)
+05227,,,,immediate maxillary partial denture - flexible base (including any clasps rests and teeth)
+05228,,,,immediate mandibular partial denture - flexible base (including any clasps rests and teeth)
+05232,,,,denture - unknown
+05241,,,,denture - unknown
+05242,,,,denture - unknown
+05254,,,,denture - unknown
+05261,,,,denture - unknown
+05262,,,,denture - unknown
+05264,,,,denture - unknown
+05266,,,,denture - unknown
+05276,,,,denture - unknown
+05280,,270.83,675.0,denture - unknown
+05281,,17.24,350.0,denture - unknown
+05282,,,,removable unilateral partial denture - one piece cast metal (including retentive/clasping materials rests and teeth) maxillary
+05283,,,,removable unilateral partial denture - one piece cast metal (including rententive/clasping materias rests and teeth) mandibular
+05290,,,,denture - unknown
+05291,,,,denture - unknown
+05293,,,,denture - unknown
+05298,,,,denture - unknown
+05299,,,,denture - unknown
+05303,,,,prosthodontics - removable procedure - unknown
+05306,200.0,200.0,200.0,prosthodontics - removable procedure - unknown
+05310,,,,prosthodontics - removable procedure - unknown
+05335,49.0,49.0,49.0,prosthodontics - removable procedure - unknown
+05362,82.35,82.35,82.35,prosthodontics - removable procedure - unknown
+05379,43.0,43.0,43.0,prosthodontics - removable procedure - unknown
+05380,,,,prosthodontics - removable procedure - unknown
+05383,139.0,139.0,139.0,prosthodontics - removable procedure - unknown
+05385,,,,prosthodontics - removable procedure - unknown
+05396,,,,prosthodontics - removable procedure - unknown
+05400,,,,adjust denture - unknown
+05401,,,,adjust denture - unknown
+05409,,,,adjust denture - unknown
+05410,,30.33,360.0,adjust complete denture - maxillary
+05411,,13.04,367.0,adjust complete denture - mandibular
+05414,,,,adjust denture - unknown
+05421,,9.88,255.0,adjust partial denture - maxillary
+05422,,12.22,360.0,adjust partial denture - mandibular
+05424,,,,adjust denture - unknown
+05425,,,,adjust denture - unknown
+05426,,,,adjust denture - unknown
+05473,,,,adjust denture - unknown
+05490,,,,adjust denture - unknown
+05497,,,,adjust denture - unknown
+05500,,,,repair denture - unknown
+05510,,17.66,375.0,repair denture - unknown
+05511,,29.69,375.0,repair broken complete denture base mandibular
+05512,,23.15,246.75,repair broken complete denture base maxillary
+05515,,,,repair denture - unknown
+05520,,9.93,718.0,replace missing or broken teeth - complete denture (each tooth)
+05559,,,,repair denture - unknown
+05591,,,,repair denture - unknown
+05600,,,,repair denture - unknown
+05606,,,,repair denture - unknown
+05610,,11.53,327.0,repair denture - unknown
+05611,,41.8,257.0,repair resin partial denture base mandibular
+05612,,35.96,205.0,repair resin partial denture base maxillary
+05620,,8.59,210.48,repair denture - unknown
+05621,,44.1,308.7,repair cast partial framework mandibular
+05622,,,,repair cast partial framework maxillary
+05630,,18.67,400.0,repair or replace broken retentive clasping materials - per tooth
+05640,,20.65,410.64,replace broken teeth - per tooth
+05650,,11.62,431.0,add tooth to existing partial denture
+05652,31.89,31.89,31.89,repair denture - unknown
+05660,,32.25,2906.5,add clasp to existing partial denture - per tooth
+05668,,,,repair denture - unknown
+05670,,4.55,300.0,replace all teeth and acrylic on cast metal framework (maxillary)
+05671,,,,replace all teeth and acrylic on cast metal framework (mandibular)
+05682,,,,repair denture - unknown
+05698,,,,repair denture - unknown
+05709,,136.0,272.0,rebase or reline denture - unknown
+05710,,0.02,1.0,rebase complete maxillary denture
+05711,,34.87,638.89,rebase complete mandibular denture
+05720,,,,rebase maxillary partial denture
+05721,,,,rebase mandibular partial denture
+05725,,,,rebase hybrid prosthesis
+05726,,,,rebase or reline denture - unknown
+05730,,33.83,4698.75,reline complete maxillary denture (direct)
+05731,,16.3,378.29,reline complete mandibular denture (direct)
+05740,,28.72,550.0,reline maxillary partial denture (direct)
+05741,,8.18,373.7,reline mandibular partial denture (direct)
+05750,,17.21,696.0,reline complete maxillary denture (indirect)
+05751,,15.25,696.0,reline complete mandibular denture (indirect)
+05753,,,,rebase or reline denture - unknown
+05756,,,,rebase or reline denture - unknown
+05760,,22.85,623.23,reline maxillary partial denture (indirect)
+05761,,47.8,626.71,reline mandibular partial denture (indirect)
+05786,,,,rebase or reline denture - unknown
+05788,,,,rebase or reline denture - unknown
+05798,,1.83,5.95,rebase or reline denture - unknown
+05807,,,,unspecified removable prosthodontic procedure - unknown
+05810,,5.15,518.0,interim complete denture (maxillary)
+05811,,8.19,795.0,interim complete denture (mandibular)
+05819,,,,unspecified removable prosthodontic procedure - unknown
+05820,,82.64,52000.0,interim partial denture (including retentive/clasping materials rests and teeth) maxillary
+05821,,24.55,1118.0,interim partial denture (including retentive/clasping materials rests and teeth) mandibular
+05822,,,,unspecified removable prosthodontic procedure - unknown
+05828,,,,unspecified removable prosthodontic procedure - unknown
+05831,,,,unspecified removable prosthodontic procedure - unknown
+05832,,,,unspecified removable prosthodontic procedure - unknown
+05840,,,,unspecified removable prosthodontic procedure - unknown
+05850,,3.02,315.0,tissue conditioning maxillary
+05851,,1.96,315.0,tissue conditioning mandibular
+05853,,,,unspecified removable prosthodontic procedure - unknown
+05854,,,,unspecified removable prosthodontic procedure - unknown
+05858,,,,unspecified removable prosthodontic procedure - unknown
+05860,,62.92,1400.0,unspecified removable prosthodontic procedure - unknown
+05861,,113.47,1928.98,unspecified removable prosthodontic procedure - unknown
+05862,,3.03,450.0,precision attachment by report
+05863,,,,overdenture - complete maxillary
+05864,,246.25,985.0,overdenture - partial maxillary
+05865,,,,overdenture - complete mandibular
+05866,,,,overdenture - partial mandibular
+05867,,12.45,1095.9,replacement of replaceable part of semi-precision or precision attachment per attachment
+05868,,,,unspecified removable prosthodontic procedure - unknown
+05875,,23.06,582.39,modification of removable prosthesis following implant surgery
+05876,,,,add metal substructure to acrylic full denture (per arch)
+05885,,,,unspecified removable prosthodontic procedure - unknown
+05886,,22.03,66.08,unspecified removable prosthodontic procedure - unknown
+05888,,,,unspecified removable prosthodontic procedure - unknown
+05889,,,,unspecified removable prosthodontic procedure - unknown
+05896,,,,unspecified removable prosthodontic procedure - unknown
+05897,,,,unspecified removable prosthodontic procedure - unknown
+05898,,,,unspecified removable prosthodontic procedure - unknown
+05899,,62.62,4370.0,unspecified removable prosthodontic procedure by report
+05900,,,,unspecified maxillofacial prosthesis - unknown
+05910,,,,unspecified maxillofacial prosthesis - unknown
+05911,,20.0,70.0,facial moulage (sectional)
+05913,,1039.63,5000.0,nasal prosthesis
+05914,,753.33,2260.0,auricular prosthesis
+05915,,,,orbital prosthesis
+05916,,,,ocular prosthesis
+05919,,,,facial prosthesis
+05922,,25.73,975.0,nasal septal prosthesis
+05923,,833.33,5000.0,ocular prosthesis interim
+05924,,,,cranial prosthesis
+05925,,132.67,398.0,facial augmentation implant prosthesis
+05927,,,,auricular prosthesis replacement
+05928,,,,orbital prosthesis replacement
+05929,,,,facial prosthesis replacement
+05930,,,,unspecified maxillofacial prosthesis - unknown
+05931,,259.98,14300.0,obturator prosthesis surgical
+05932,,123.6,10318.0,obturator prosthesis definitive
+05933,,8.22,440.0,obturator prosthesis modification
+05934,,,,mandibular resection prosthesis with guide flange
+05935,,,,mandibular resection prosthesis without guide flange
+05936,,137.92,6885.0,obturator prosthesis interim
+05937,,,,trismus appliance (not for TMD treatment)
+05951,,8.11,55.0,feeding aid
+05952,,,,speech aid prosthesis pediatric
+05953,,,,speech aid prosthesis adult
+05954,,970.69,4019.0,palatal augmentation prosthesis
+05955,,,,palatal lift prosthesis definitive
+05956,,,,unspecified maxillofacial prosthesis - unknown
+05958,,,,palatal lift prosthesis interim
+05959,,,,palatal lift prosthesis modification
+05960,,,,speech aid prosthesis modification
+05975,,,,unspecified maxillofacial prosthesis - unknown
+05978,,,,unspecified maxillofacial prosthesis - unknown
+05981,,,,unspecified maxillofacial prosthesis - unknown
+05982,,9.08,1998.0,surgical stent
+05983,,,,radiation carrier
+05984,,21.46,1251.06,radiation shield
+05985,,49.28,1500.0,radiation cone locator
+05986,,1.83,525.0,fluoride gel carrier
+05987,,,,commissure splint
+05988,,20.1,950.0,surgical splint
+05989,,,,unspecified maxillofacial prosthesis - unknown
+05991,,11.48,389.0,vesiculobullous disease medicament carrier
+05992,,,,adjust maxillofacial prosthetic appliance by report
+05993,,,,maintenance and cleaning of a maxillofacial prosthesis (extra- or intra-oral) other than required adjustments by report
+05994,,751.36,16530.0,unspecified maxillofacial prosthesis - unknown
+05995,,,,periodontal medicament carrier with peripheral seal - laboratory processed - maxillary
+05996,,,,periodontal medicament carrier with peripheral seal - laboratory processed - mandibular
+05997,,,,unspecified maxillofacial prosthesis - unknown
+05998,,,,unspecified maxillofacial prosthesis - unknown
+05999,,139.33,2800.0,unspecified maxillofacial prosthesis by report
+06000,,,,implant - unknown
+06001,,,,implant - unknown
+06002,,,,implant - unknown
+06003,,,,implant - unknown
+06004,,,,implant - unknown
+06005,,,,implant - unknown
+06009,,22.11,398.0,implant - unknown
+06010,,110.62,38012.0,surgical placement of implant body: endosteal implant
+06011,,36.83,19617.0,surgical access to an implant body (second stage implant surgery)
+06012,,5.49,607.0,surgical placement of interim implant body for transitional prosthesis: endosteal implant
+06013,,73.63,4200.0,surgical placement of mini implant
+06014,,36.67,220.0,implant - unknown
+06015,,,,implant - unknown
+06017,1600.0,1600.0,1600.0,implant - unknown
+06019,1900.0,1900.0,1900.0,implant - unknown
+06020,,40.06,2200.0,implant - unknown
+06021,,,,implant - unknown
+06024,,604.0,1208.0,implant - unknown
+06025,,,,implant - unknown
+06026,,,,implant - unknown
+06027,,,,implant - unknown
+06030,,,,implant - unknown
+06031,,,,implant - unknown
+06034,,,,implant - unknown
+06040,,325.47,6968.4,surgical placement: eposteal implant
+06042,,,,implant - unknown
+06050,,,,surgical placement: transosteal implant
+06051,,43.9,11900.0,interim implant abutment placement
+06052,,,,implant - unknown
+06053,,109.28,10581.0,implant - unknown
+06054,,229.17,3243.06,implant - unknown
+06055,,142.5,7000.0,connecting bar - implant supported or abutment supported
+06056,,95.14,6353.0,prefabricated abutment - includes modification and placement
+06057,,11.01,1698.0,custom fabricated abutment - includes placement
+06058,,16.77,1778.2,abutment supported porcelain/ceramic crown
+06059,,26.99,2976.22,abutment supported porcelain fused to metal crown (high noble metal)
+06060,,149.69,1280.0,abutment supported porcelain fused to metal crown (predominantly base metal)
+06061,,36.3,1716.74,abutment supported porcelain fused to metal crown (noble metal)
+06062,,96.33,1711.09,abutment supported cast metal crown (high noble metal)
+06063,,,,abutment supported cast metal crown (predominantly base metal)
+06064,,,,abutment supported cast metal crown (noble metal)
+06065,,68.21,2889.0,implant supported porcelain/ceramic crown
+06066,,43.21,2889.0,implant supported crown - porcelain fused to high noble alloys
+06067,,90.4,1717.65,implant supported crown - high noble alloys
+06068,,,,abutment supported retainer for porcelain/ceramic FPD
+06069,,4.75,1530.0,abutment supported retainer for porcelain fused to metal FPD (high noble metal)
+06070,,,,abutment supported retainer for porcelain fused to metal FPD (predominantly base metal)
+06071,,,,abutment supported retainer for porcelain fused to metal FPD (noble metal)
+06072,,,,abutment supported retainer for cast metal FPD (high noble metal)
+06074,,,,abutment supported retainer for cast metal FPD (noble metal)
+06075,,40.64,2330.86,implant supported retainer for ceramic FPD
+06076,,,,implant supported retainer for FPD - porcelain fused to high noble alloys
+06077,,,,implant supported retainer for metal FPD - high noble alloys
+06078,,46.73,5000.0,implant - unknown
+06079,,,,implant - unknown
+06080,,19.91,2000.0,implant maintenance procedures when prostheses are removed and reinserted including cleansing of prostheses and abutments
+06081,,,,scaling and debridement in the presence of inflammation or mucositis of a single implant including cleaning of the implant surfaces without flap entry and closure
+06082,,19.23,250.0,implant supported crown - porcelain fused to predominantly base alloys
+06083,,,,implant supported crown - porcelain fused to noble alloys
+06085,,,,interim implant crown
+06086,,,,implant supported crown - predominantly base alloys
+06088,,1155.07,2310.13,implant supported crown - titanium and titanium alloys
+06090,,12.39,250.0,repair implant supported prosthesis by report
+06091,,156.34,839.4,replacement of replaceable part of semi-precision or precision attachment of implant/abutment supported prosthesis per attachment
+06092,,140.01,2798.5,re-cement or re-bond implant/abutment supported crown
+06093,,44.64,244.44,re-cement or re-bond implant/abutment supported fixed partial denture
+06094,,,,abutment supported crown - titanium and titanium alloys
+06095,,7.14,250.0,repair implant abutment by report
+06096,,,,remove broken implant retaining screw
+06099,,,,implant supported retainer for FPD - porcelain fused to noble alloys
+06100,,90.64,14576.0,surgical removal of implant body
+06101,,15.56,2325.75,debridement of a peri-implant defect or defects surrounding a single implant and surface cleaning of the exposed implant surfaces including flap entry and closure
+06102,,17.82,1532.5,debridement and osseous contouring of a peri-implant defect or defects surrounding a single implant and includes surface cleaning of the exposed implant surfaces including flap entry and closure
+06103,,0.46,100.0,bone graft for repair of peri-implant defect - does not include flap entry and closure
+06104,,15.4,4651.5,bone graft at time of implant placement
+06105,,3334.29,7780.0,removal of implant body not requiring bone removal or flap elevation
+06106,,,,guided tissue regeneration - resorbable barrier per implant
+06110,,36.55,3984.0,implant /abutment supported removable denture for edentulous arch - maxillary
+06111,,,,implant /abutment supported removable denture for edentulous arch - mandibular
+06112,,,,implant /abutment supported removable denture for partially edentulous arch - maxillary
+06113,,,,implant /abutment supported removable denture for partially edentulous arch - mandibular
+06114,,146.17,6679.0,implant /abutment supported fixed denture for edentulous arch - maxillary
+06115,,26.04,2943.72,implant /abutment supported fixed denture for edentulous arch - mandibular
+06116,,2100.0,21000.0,implant /abutment supported fixed denture for partially edentulous arch - maxillary
+06117,,395.46,9886.5,implant /abutment supported fixed denture for partially edentulous arch - mandibular
+06118,,,,implant/abutment supported interim fixed denture for edentulous arch - mandibular
+06119,,,,implant/abutment supported interim fixed denture for edentulous arch - maxillary
+06120,,3.51,52.61,implant supported retainer - porcelain fused to titanium and titanium alloys
+06122,,,,implant supported retainer for metal FPD - noble alloys
+06125,,,,unspecified implant procedure - unknown
+06140,,181.25,725.0,unspecified implant procedure - unknown
+06151,,,,unspecified implant procedure - unknown
+06152,,,,unspecified implant procedure - unknown
+06156,269.0,269.0,269.0,unspecified implant procedure - unknown
+06157,35.0,35.0,35.0,unspecified implant procedure - unknown
+06170,,,,unspecified implant procedure - unknown
+06190,,5.01,611.0,radiographic/surgical implant index by report
+06191,,,,semi-precision abutment - placement
+06192,,,,semi-precision attachment - placement
+06194,,,,abutment supported retainer crown for FPD - titanium and titanium alloys
+06195,,,,abutment supported retainer - porcelain fused to titanium and titanium alloys
+06197,,,,replacement of restorative material used to close an access opening of a screw-retained implant supported prosthesis per implant
+06198,,75.0,150.0,remove interim implant component
+06199,,61.46,6180.0,unspecified implant procedure by report
+06200,,,,pontic - unknown
+06201,,,,pontic - unknown
+06204,,,,pontic - unknown
+06205,,,,pontic - indirect resin based composite
+06210,,,,pontic - cast high noble metal
+06211,,,,pontic - cast predominantly base metal
+06212,,0.07,1.0,pontic - cast noble metal
+06213,,,,pontic - unknown
+06223,,,,pontic - unknown
+06240,,17.84,2340.0,pontic - porcelain fused to high noble metal
+06241,,6.65,963.0,pontic - porcelain fused to predominantly base metal
+06242,,13.48,4370.0,pontic - porcelain fused to noble metal
+06243,,,,pontic - porcelain fused to titanium and titanium alloys
+06245,,35.57,5799.5,pontic - porcelain/ceramic
+06246,,49.29,1183.0,pontic - unknown
+06250,,,,pontic - resin with high noble metal
+06251,,,,pontic - resin with predominantly base metal
+06252,,,,pontic - resin with noble metal
+06253,,6.16,350.0,interim pontic - further treatment or completion of diagnosis necessary prior to final impression
+06254,,,,pontic - unknown
+06270,,,,pontic - unknown
+06279,,,,pontic - unknown
+06301,,,,prosthodontics - fixed procedure - unknown
+06319,,,,prosthodontics - fixed procedure - unknown
+06322,,,,prosthodontics - fixed procedure - unknown
+06351,,,,prosthodontics - fixed procedure - unknown
+06356,,,,prosthodontics - fixed procedure - unknown
+06360,320.0,406.0,449.0,prosthodontics - fixed procedure - unknown
+06365,194.0,194.0,194.0,prosthodontics - fixed procedure - unknown
+06372,,27.0,81.0,prosthodontics - fixed procedure - unknown
+06374,,,,prosthodontics - fixed procedure - unknown
+06375,,,,prosthodontics - fixed procedure - unknown
+06376,,,,prosthodontics - fixed procedure - unknown
+06377,,,,prosthodontics - fixed procedure - unknown
+06390,,,,prosthodontics - fixed procedure - unknown
+06393,,,,prosthodontics - fixed procedure - unknown
+06400,,,,prosthodontics - fixed procedure - unknown
+06413,608.0,608.0,608.0,prosthodontics - fixed procedure - unknown
+06415,,10.0,32.0,prosthodontics - fixed procedure - unknown
+06431,,,,prosthodontics - fixed procedure - unknown
+06444,,,,prosthodontics - fixed procedure - unknown
+06455,,,,prosthodontics - fixed procedure - unknown
+06460,,,,prosthodontics - fixed procedure - unknown
+06470,,,,prosthodontics - fixed procedure - unknown
+06475,,,,prosthodontics - fixed procedure - unknown
+06496,,,,prosthodontics - fixed procedure - unknown
+06498,,,,prosthodontics - fixed procedure - unknown
+06499,,,,prosthodontics - fixed procedure - unknown
+06506,,,,retainer - unknown
+06507,,,,retainer - unknown
+06510,,,,retainer - unknown
+06513,128.53,128.53,128.53,retainer - unknown
+06536,,,,retainer - unknown
+06544,,,,retainer - unknown
+06545,,10.71,600.0,retainer - cast metal for resin bonded fixed prosthesis
+06548,,,,retainer - porcelain/ceramic for resin bonded fixed prosthesis
+06549,,,,retainer - for resin bonded fixed prosthesis
+06550,,,,retainer - unknown
+06560,,,,retainer - unknown
+06567,,,,retainer - unknown
+06569,,,,retainer - unknown
+06571,,,,retainer - unknown
+06579,,,,retainer - unknown
+06589,,,,retainer - unknown
+06600,,,,retainer inlay - porcelain/ceramic two surfaces
+06605,,,,retainer inlay - cast predominantly base metal three or more surfaces
+06606,,190.2,951.0,retainer inlay - cast noble metal two surfaces
+06608,,,,retainer onlay - porcelain/ceramic two surfaces
+06609,,,,retainer onlay - porcelain/ceramic three or more surfaces
+06610,,,,retainer onlay - cast high noble metal two surfaces
+06615,,,,retainer onlay - cast noble metal three or more surfaces
+06624,,,,retainer inlay - titanium
+06666,,,,retainer inlay or onlay - unknown
+06682,,,,retainer inlay or onlay - unknown
+06698,,,,retainer inlay or onlay - unknown
+06701,,,,retainer crown - unknown
+06704,315.36,315.36,315.36,retainer crown - unknown
+06707,52.0,52.0,52.0,retainer crown - unknown
+06710,,,,retainer crown - indirect resin based composite
+06720,,,,retainer crown - resin with high noble metal
+06721,,,,retainer crown - resin with predominantly base metal
+06722,,,,retainer crown - resin with noble metal
+06740,,27.28,5799.5,retainer crown - porcelain/ceramic
+06741,,,,retainer crown - unknown
+06742,,170.0,850.0,retainer crown - unknown
+06745,,342.6,1247.0,retainer crown - unknown
+06750,,14.46,4680.0,retainer crown - porcelain fused to high noble metal
+06751,,19.17,1514.0,retainer crown - porcelain fused to predominantly base metal
+06752,,24.84,1820.0,retainer crown - porcelain fused to noble metal
+06754,,,,retainer crown - unknown
+06757,,,,retainer crown - unknown
+06760,,,,retainer crown - unknown
+06761,,,,retainer crown - unknown
+06775,,,,retainer crown - unknown
+06780,,,,retainer crown - 3/4 cast high noble metal
+06781,,,,retainer crown - 3/4 cast predominantly base metal
+06782,,,,retainer crown - 3/4 cast noble metal
+06783,,38.86,1155.53,retainer crown - 3/4 porcelain/ceramic
+06790,,0.03,1.0,retainer crown - full cast high noble metal
+06792,,161.15,2094.0,retainer crown - full cast noble metal
+06793,,5.4,350.0,interim retainer crown - further treatment or completion of diagnosis necessary prior to final impression
+06794,,,,retainer crown - titanium and titanium alloys
+06795,,,,retainer crown - unknown
+06811,,179.0,358.0,prosthodontics - fixed procedure - unknown
+06819,,,,prosthodontics - fixed procedure - unknown
+06821,,427.33,641.0,prosthodontics - fixed procedure - unknown
+06850,259.0,259.0,259.0,prosthodontics - fixed procedure - unknown
+06900,,,,unspecified fixed prosthodontic procedur - unknown
+06901,54.83,88.62,190.0,unspecified fixed prosthodontic procedur - unknown
+06904,16.0,16.0,16.0,unspecified fixed prosthodontic procedur - unknown
+06910,,,,unspecified fixed prosthodontic procedur - unknown
+06920,,104.0,650.0,connector bar
+06921,,,,unspecified fixed prosthodontic procedur - unknown
+06930,,55.79,6995.0,re-cement or re-bond fixed partial denture
+06931,,,,unspecified fixed prosthodontic procedur - unknown
+06932,,,,unspecified fixed prosthodontic procedur - unknown
+06938,,,,unspecified fixed prosthodontic procedur - unknown
+06940,,,0.01,stress breaker
+06949,,,,unspecified fixed prosthodontic procedur - unknown
+06950,,,0.01,precision attachment
+06953,,119.0,238.0,unspecified fixed prosthodontic procedur - unknown
+06970,,,,unspecified fixed prosthodontic procedur - unknown
+06971,,,,unspecified fixed prosthodontic procedur - unknown
+06972,,,,unspecified fixed prosthodontic procedur - unknown
+06973,,3.19,238.0,unspecified fixed prosthodontic procedur - unknown
+06975,,,,unspecified fixed prosthodontic procedur - unknown
+06976,,,,unspecified fixed prosthodontic procedur - unknown
+06980,,5.2,473.27,fixed partial denture repair necessitated by restorative material failure
+06981,,,,unspecified fixed prosthodontic procedur - unknown
+06984,,,,unspecified fixed prosthodontic procedur - unknown
+06985,,,,pediatric partial denture fixed
+06990,,,,unspecified fixed prosthodontic procedur - unknown
+06992,,,,unspecified fixed prosthodontic procedur - unknown
+06997,,,,unspecified fixed prosthodontic procedur - unknown
+06998,,,,unspecified fixed prosthodontic procedur - unknown
+06999,,51.16,3600.0,unspecified fixed prosthodontic procedure by report
+07000,,,,prosthodontics - fixed procedure - unknown
+07001,,30.92,68.02,oral & maxillofacial surgery procedure - unknown
+07002,,,,oral & maxillofacial surgery procedure - unknown
+07005,,,,oral & maxillofacial surgery procedure - unknown
+07007,,,,oral & maxillofacial surgery procedure - unknown
+07010,22.0,22.0,22.0,oral & maxillofacial surgery procedure - unknown
+07012,,26.2,104.8,oral & maxillofacial surgery procedure - unknown
+07014,,,,oral & maxillofacial surgery procedure - unknown
+07020,,,,oral & maxillofacial surgery procedure - unknown
+07026,,,,oral & maxillofacial surgery procedure - unknown
+07030,,91.02,170.75,oral & maxillofacial surgery procedure - unknown
+07031,,,,oral & maxillofacial surgery procedure - unknown
+07032,,3.44,86.0,oral & maxillofacial surgery procedure - unknown
+07033,,,,oral & maxillofacial surgery procedure - unknown
+07034,,,,oral & maxillofacial surgery procedure - unknown
+07035,,23.3,99.0,oral & maxillofacial surgery procedure - unknown
+07038,,,,oral & maxillofacial surgery procedure - unknown
+07040,,38.35,83.55,oral & maxillofacial surgery procedure - unknown
+07046,,,,oral & maxillofacial surgery procedure - unknown
+07048,,,,oral & maxillofacial surgery procedure - unknown
+07049,,,,oral & maxillofacial surgery procedure - unknown
+07050,44.89,44.89,44.89,oral & maxillofacial surgery procedure - unknown
+07051,,219.67,659.0,oral & maxillofacial surgery procedure - unknown
+07053,,,,oral & maxillofacial surgery procedure - unknown
+07057,,,,oral & maxillofacial surgery procedure - unknown
+07063,,,,oral & maxillofacial surgery procedure - unknown
+07070,,,,oral & maxillofacial surgery procedure - unknown
+07071,88.0,88.0,88.0,oral & maxillofacial surgery procedure - unknown
+07077,,43.94,55.0,oral & maxillofacial surgery procedure - unknown
+07080,,156.14,509.0,oral & maxillofacial surgery procedure - unknown
+07086,,,,oral & maxillofacial surgery procedure - unknown
+07090,,,,oral & maxillofacial surgery procedure - unknown
+07096,,,,oral & maxillofacial surgery procedure - unknown
+07100,,,,extraction of tooth - unknown
+07102,180.0,180.0,180.0,extraction of tooth - unknown
+07104,,,,extraction of tooth - unknown
+07110,,3.08,300.0,extraction of tooth - unknown
+07111,,378.54,24791.0,extraction coronal remnants - primary tooth
+07112,,16.0,40.29,extraction of tooth - unknown
+07115,,,,extraction of tooth - unknown
+07116,35.0,35.0,35.0,extraction of tooth - unknown
+07118,,,,extraction of tooth - unknown
+07120,,19.07,2899.0,extraction of tooth - unknown
+07124,,,,extraction of tooth - unknown
+07130,,69.49,3046.0,extraction of tooth - unknown
+07136,,,,extraction of tooth - unknown
+07139,,,,extraction of tooth - unknown
+07140,,155.56,164247.0,extraction erupted tooth or exposed root (elevation and/or forceps removal)
+07142,,,,extraction of tooth - unknown
+07144,,13.52,150.0,extraction of tooth - unknown
+07146,,,,extraction of tooth - unknown
+07147,,,,extraction of tooth - unknown
+07148,,,,extraction of tooth - unknown
+07149,,,,extraction of tooth - unknown
+07150,,,,extraction of tooth - unknown
+07160,,,,extraction of tooth - unknown
+07161,,,,extraction of tooth - unknown
+07162,91.33,95.92,114.28,extraction of tooth - unknown
+07170,,,,extraction of tooth - unknown
+07180,,,,extraction of tooth - unknown
+07182,,,,extraction of tooth - unknown
+07186,57.0,57.0,57.0,extraction of tooth - unknown
+07190,,96.67,145.0,extraction of tooth - unknown
+07192,,,,extraction of tooth - unknown
+07199,,,,extraction of tooth - unknown
+07200,,374.52,1872.59,oral surgery - unknown
+07201,,,,oral surgery - unknown
+07204,,,,oral surgery - unknown
+07205,,15.93,31.85,oral surgery - unknown
+07206,,295.2,600.0,oral surgery - unknown
+07208,,,,oral surgery - unknown
+07210,,138.02,154559.0,extraction erupted tooth requiring removal of bone and/or sectioning of tooth and including elevation of mucoperiosteal flap if indicated
+07211,,521.15,3240.0,oral surgery - unknown
+07212,,,,oral surgery - unknown
+07214,,14.71,250.0,oral surgery - unknown
+07215,,,,oral surgery - unknown
+07216,,,,oral surgery - unknown
+07218,,,,oral surgery - unknown
+07220,,587.78,32228.16,removal of impacted tooth - soft tissue
+07221,220.0,220.0,220.0,oral surgery - unknown
+07225,,,,oral surgery - unknown
+07228,,,,oral surgery - unknown
+07230,,352.93,56169.19,removal of impacted tooth - partially bony
+07232,,,,oral surgery - unknown
+07238,,,,oral surgery - unknown
+07240,,480.49,60450.0,removal of impacted tooth - completely bony
+07241,,195.94,11625.02,removal of impacted tooth - completely bony with unusual surgical complications
+07242,,,,oral surgery - unknown
+07243,,,,oral surgery - unknown
+07245,,,,oral surgery - unknown
+07246,,,,oral surgery - unknown
+07248,,,,oral surgery - unknown
+07249,,187.5,375.0,oral surgery - unknown
+07250,,151.51,40834.0,removal of residual tooth roots (cutting procedure)
+07251,,111.02,23877.0,coronectomy - intentional partial tooth removal impacted teeth only
+07252,,,,oral surgery - unknown
+07253,,,,oral surgery - unknown
+07255,,,,oral surgery - unknown
+07258,,,,oral surgery - unknown
+07260,,392.22,8900.0,oroantral fistula closure
+07261,,196.91,26380.0,primary closure of a sinus perforation
+07264,,,,oral surgery - unknown
+07265,,,,oral surgery - unknown
+07266,,8.85,407.0,oral surgery - unknown
+07268,,,,oral surgery - unknown
+07270,,21.76,6293.0,tooth re-implantation and/or stabilization of accidentally evulsed or displaced tooth
+07271,,,,oral surgery - unknown
+07272,,12.31,320.0,tooth transplantation (includes re-implantation from one site to another and splinting and/or stabilization)
+07273,,,,oral surgery - unknown
+07274,,,,oral surgery - unknown
+07275,,,,oral surgery - unknown
+07276,,,,oral surgery - unknown
+07279,,,,oral surgery - unknown
+07280,,,,exposure of an unerupted tooth
+07281,,,,oral surgery - unknown
+07282,,25.61,550.0,mobilization of erupted or malpositioned tooth to aid eruption
+07283,,1.61,100.0,placement of device to facilitate eruption of impacted tooth
+07284,,41.86,293.0,oral surgery - unknown
+07285,,38.55,1500.0,incisional biopsy of oral tissue-hard (bone tooth)
+07286,,28.44,6029.0,incisional biopsy of oral tissue-soft
+07287,,8.34,433.0,exfoliative cytological sample collection
+07288,,10.57,650.0,brush biopsy - transepithelial sample collection
+07289,,37.75,375.0,oral surgery - unknown
+07290,,255.01,36655.0,surgical repositioning of teeth
+07291,,5.36,96.5,transseptal fiberotomy/supra crestal fiberotomy by report
+07292,,273.23,2945.0,placement of temporary anchorage device [screw retained plate] requiring flap
+07293,,,,placement of temporary anchorage device requiring flap
+07294,,3.94,149.86,placement of temporary anchorage device without flap
+07295,,326.1,5704.24,harvest of bone for use in autogenous grafting procedure
+07296,,1055.0,5275.0,corticotomy - one to three teeth or tooth spaces per quadrant
+07297,,,,corticotomy - four or more teeth or tooth spaces per quadrant
+07299,,,,removal of temporary anchorage device requiring flap
+07301,,101.6,400.0,oral surgery - unknown
+07302,,,,oral surgery - unknown
+07304,,,,oral surgery - unknown
+07305,,,,oral surgery - unknown
+07310,,173.18,35526.0,alveoloplasty in conjunction with extractions - four or more teeth or tooth spaces per quadrant
+07311,,267.26,38012.0,alveoloplasty in conjunction with extractions - one to three teeth or tooth spaces per quadrant
+07312,,,,oral surgery - unknown
+07320,,82.28,21316.0,alveoloplasty not in conjunction with extractions - four or more teeth or tooth spaces per quadrant
+07321,,355.85,123480.0,alveoloplasty not in conjunction with extractions - one to three teeth or tooth spaces per quadrant
+07324,,,,oral surgery - unknown
+07330,,,,oral surgery - unknown
+07337,,,,oral surgery - unknown
+07340,,168.37,3702.0,vestibuloplasty - ridge extension (secondary epithelialization)
+07341,,,,oral surgery - unknown
+07350,,47.92,1250.0,vestibuloplasty - ridge extension (including soft tissue grafts muscle reattachment revision of soft tissue attachment and management of hypertrophied and hyperplastic tissue)
+07353,,,,oral surgery - unknown
+07355,,,,oral surgery - unknown
+07360,,,,oral surgery - unknown
+07365,,,,oral surgery - unknown
+07373,,,,oral surgery - unknown
+07380,,,,oral surgery - unknown
+07381,,,,oral surgery - unknown
+07385,,,,oral surgery - unknown
+07386,,225.0,475.0,oral surgery - unknown
+07392,,,,oral surgery - unknown
+07399,,,,oral surgery - unknown
+07400,,,,excision or removal - unknown
+07402,,,,excision or removal - unknown
+07409,,,,excision or removal - unknown
+07410,,54.19,6490.5,excision of benign lesion up to 1.25 cm
+07411,,61.4,17712.67,excision of benign lesion greater than 1.25 cm
+07412,,54.24,3000.0,excision of benign lesion complicated
+07413,,95.76,6912.0,excision of malignant lesion up to 1.25 cm
+07414,,101.43,8037.0,excision of malignant lesion greater than 1.25 cm
+07415,,,,excision of malignant lesion complicated
+07416,,,,excision or removal - unknown
+07419,,,,excision or removal - unknown
+07420,,,,excision or removal - unknown
+07421,,187.2,468.0,excision or removal - unknown
+07422,,,,excision or removal - unknown
+07424,,,,excision or removal - unknown
+07425,,,,excision or removal - unknown
+07426,,,,excision or removal - unknown
+07427,,,,excision or removal - unknown
+07428,,,,excision or removal - unknown
+07430,,5.41,535.0,excision or removal - unknown
+07431,,65.84,1000.0,excision or removal - unknown
+07432,,750.0,3000.0,excision or removal - unknown
+07433,,,,excision or removal - unknown
+07434,,,,excision or removal - unknown
+07436,,,,excision or removal - unknown
+07440,,22.05,542.0,excision of malignant tumor - lesion diameter up to 1.25 cm
+07441,,176.55,3752.5,excision of malignant tumor - lesion diameter greater than 1.25 cm
+07443,,,,excision or removal - unknown
+07450,,77.64,13680.0,removal of benign odontogenic cyst or tumor - lesion diameter up to 1.25 cm
+07451,,336.35,9283.33,removal of benign odontogenic cyst or tumor - lesion diameter greater than 1.25 cm
+07452,,,,excision or removal - unknown
+07453,,225.0,450.0,excision or removal - unknown
+07460,,46.92,2337.66,removal of benign nonodontogenic cyst or tumor - lesion diameter up to 1.25 cm
+07461,,81.09,3527.0,removal of benign nonodontogenic cyst or tumor - lesion diameter greater than 1.25 cm
+07465,,18.18,1200.0,destruction of lesion(s) by physical or chemical method by report
+07466,,40.0,120.0,excision or removal - unknown
+07470,,16.83,875.0,excision or removal - unknown
+07471,,74.32,5175.5,removal of lateral exostosis (maxilla or mandible)
+07472,,190.1,7619.75,removal of torus palatinus
+07473,,67.8,7014.66,removal of torus mandibularis
+07474,,,,excision or removal - unknown
+07480,,60.71,850.0,excision or removal - unknown
+07481,275.98,275.98,275.98,excision or removal - unknown
+07485,,69.54,5979.5,reduction of osseous tuberosity
+07486,,,,excision or removal - unknown
+07488,,,,excision or removal - unknown
+07490,,1734.11,15010.0,radical resection of maxilla or mandible
+07510,,27.76,4188.0,incision and drainage of abscess - intraoral soft tissue
+07511,,18.17,1675.75,incision and drainage of abscess - intraoral soft tissue - complicated (includes drainage of multiple fascial spaces)
+07518,,,,incision drainage or removal - unknown
+07520,,169.48,7833.33,incision and drainage of abscess - extraoral soft tissue
+07521,,3.33,315.0,incision and drainage of abscess - extraoral soft tissue - complicated (includes drainage of multiple fascial spaces)
+07530,,14.0,525.0,removal of foreign body from mucosa skin or subcutaneous alveolar tissue
+07535,32.25,40.75,45.0,incision drainage or removal - unknown
+07540,,323.59,9272.0,removal of reaction producing foreign bodies musculoskeletal system
+07541,,492.5,985.0,incision drainage or removal - unknown
+07542,28.11,28.11,28.11,incision drainage or removal - unknown
+07550,,23.13,1012.0,partial ostectomy/sequestrectomy for removal of non-vital bone
+07551,,,,incision drainage or removal - unknown
+07553,,,,incision drainage or removal - unknown
+07560,,55.87,2060.0,maxillary sinusotomy for removal of tooth fragment or foreign body
+07562,,,,incision drainage or removal - unknown
+07580,,,,incision drainage or removal - unknown
+07586,,,,incision drainage or removal - unknown
+07590,,,,incision drainage or removal - unknown
+07591,,,,incision drainage or removal - unknown
+07593,,,,incision drainage or removal - unknown
+07597,,103.16,257.9,incision drainage or removal - unknown
+07605,,,,reduction - unknown
+07607,14.88,14.88,14.88,reduction - unknown
+07609,,,,reduction - unknown
+07610,,,,maxilla - open reduction (teeth immobilized if present)
+07612,,,,reduction - unknown
+07613,,,,reduction - unknown
+07614,,,,reduction - unknown
+07616,,,,reduction - unknown
+07620,,108.02,3812.0,maxilla - closed reduction (teeth immobilized if present)
+07621,,,,reduction - unknown
+07626,,,,reduction - unknown
+07630,,244.47,7796.0,mandible - open reduction (teeth immobilized if present)
+07632,,,,reduction - unknown
+07635,,,,reduction - unknown
+07637,,,,reduction - unknown
+07640,,227.18,7287.0,mandible - closed reduction (teeth immobilized if present)
+07644,,,,reduction - unknown
+07650,,211.01,1038.13,malar and/or zygomatic arch - open reduction
+07653,,,,reduction - unknown
+07660,,,,malar and/or zygomatic arch - closed reduction
+07670,,136.99,6695.2,alveolus - closed reduction may include stabilization of teeth
+07671,,293.22,4175.0,alveolus - open reduction may include stabilization of teeth
+07680,,14.9,293.36,facial bones - complicated reduction with fixation and multiple surgical approaches
+07686,,,,reduction - unknown
+07703,,,,reduction - unknown
+07706,,,,reduction - unknown
+07710,,24.7,604.94,maxilla - open reduction
+07720,,234.28,1363.95,maxilla - closed reduction
+07730,,337.47,6412.0,mandible - open reduction
+07740,,70.19,706.2,mandible - closed reduction
+07746,,,,reduction - unknown
+07750,,,,malar and/or zygomatic arch - open reduction
+07760,,32.57,38.0,malar and/or zygomatic arch - closed reduction
+07762,,2.79,67.0,reduction - unknown
+07770,,,,alveolus - open reduction stabilization of teeth
+07771,,,,alveolus closed reduction stabilization of teeth
+07777,,,,reduction - unknown
+07780,,,,facial bones - complicated reduction with fixation and multiple approaches
+07781,,,,reduction - unknown
+07791,,,,reduction - unknown
+07799,,,,reduction - unknown
+07800,,,,unspecified TMD therapy - unknown
+07802,,,,unspecified TMD therapy - unknown
+07803,,,,unspecified TMD therapy - unknown
+07810,,,,open reduction of dislocation
+07820,,15.33,570.0,closed reduction of dislocation
+07826,,102.86,240.0,unspecified TMD therapy - unknown
+07830,,62.03,4280.0,manipulation under anesthesia
+07838,,,,unspecified TMD therapy - unknown
+07840,,,,condylectomy
+07850,,,,surgical discectomy with/without implant
+07853,,,,unspecified TMD therapy - unknown
+07854,,,,synovectomy
+07856,,,,myotomy
+07859,,,,unspecified TMD therapy - unknown
+07860,,,,arthrotomy
+07865,,2022.22,9100.0,arthroplasty
+07870,,6.8,711.0,arthrocentesis
+07871,,9.75,832.0,non-arthroscopic lysis and lavage
+07872,,,,arthroscopy - diagnosis with or without biopsy
+07873,,,,arthroscopy: lavage and lysis of adhesions
+07874,,,,arthroscopy: disc repositioning and stabilization
+07875,,,,arthroscopy: synovectomy
+07877,,,,arthroscopy: debridement
+07880,,71.54,6500.0,occlusal orthotic device by report
+07881,,36.61,2892.0,occlusal orthotic device adjustment
+07882,,,,unspecified TMD therapy - unknown
+07883,,,,unspecified TMD therapy - unknown
+07884,,,,unspecified TMD therapy - unknown
+07886,,,,unspecified TMD therapy - unknown
+07889,,70.45,775.0,unspecified TMD therapy - unknown
+07890,,16.67,100.0,unspecified TMD therapy - unknown
+07895,3100.0,3100.0,3100.0,unspecified TMD therapy - unknown
+07898,,125.0,250.0,unspecified TMD therapy - unknown
+07899,,19.12,4000.0,unspecified TMD therapy by report
+07900,,20.0,40.0,unspecified oral surgery procedure - unknown
+07902,,180.0,900.0,unspecified oral surgery procedure - unknown
+07904,,150.0,299.99,unspecified oral surgery procedure - unknown
+07910,,25.89,1450.0,suture of recent small wounds up to 5 cm
+07911,,92.18,2500.0,complicated suture - up to 5 cm
+07912,,74.42,1079.0,complicated suture - greater than 5 cm
+07916,,3.66,12.0,unspecified oral surgery procedure - unknown
+07920,,,,skin graft (identify defect covered location and type of graft)
+07921,,2.85,506.0,collection and application of autologous blood concentrate product
+07922,,0.1,30.0,placement of intra-socket biological dressing to aid in hemostasis or clot stabilization per site
+07931,,,,unspecified oral surgery procedure - unknown
+07940,,13.2,264.0,osteoplasty - for orthognathic deformities
+07941,,,,osteotomy - mandibular rami
+07943,,,,osteotomy - mandibular rami with bone graft; includes obtaining the graft
+07944,,,,osteotomy - segmented or subapical
+07945,,205.16,3898.0,osteotomy - body of mandible
+07946,,,,LeFort I (maxilla - total)
+07947,,,,LeFort I (maxilla - segmented)
+07948,,,,LeFort II or LeFort III (osteoplasty of facial bones for midface hypoplasia or retrusion) - without bone graft
+07949,,,,LeFort II or LeFort III - with bone graft
+07950,,95.45,4807.0,osseous osteoperiosteal or cartilage graft of the mandible or maxilla - autogenous or nonautogenous by report
+07951,,84.9,11408.48,sinus augmentation with bone or bone substitutes via a lateral open approach
+07952,,27.42,4977.42,sinus augmentation via a vertical approach
+07953,,16.81,10551.25,bone replacement graft for ridge preservation - per site
+07955,,58.02,3500.0,repair of maxillofacial soft and/or hard tissue defect
+07956,,36.89,900.0,guided tissue regeneration edentulous area - resorbable barrier per site
+07957,,,,guided tissue regeneration edentulous area - non-resorbable barrier per site
+07958,,,,unspecified oral surgery procedure - unknown
+07959,,,,unspecified oral surgery procedure - unknown
+07960,,41.82,5979.5,unspecified oral surgery procedure - unknown
+07961,,71.25,5014.8,buccal / labial frenectomy (frenulectomy)
+07962,,378.91,6840.0,lingual frenectomy (frenulectomy)
+07963,,0.01,1.0,frenuloplasty
+07970,,149.55,13232.0,excision of hyperplastic tissue - per arch
+07971,,55.89,3297.74,excision of pericoronal gingiva
+07972,,22.13,622.0,surgical reduction of fibrous tuberosity
+07979,,,,non - surgical sialolithotomy
+07980,,2.57,355.0,surgical sialolithotomy
+07981,,,,excision of salivary gland by report
+07982,,,,sialodochoplasty
+07983,,,,closure of salivary fistula
+07986,,,,unspecified oral surgery procedure - unknown
+07989,,,,unspecified oral surgery procedure - unknown
+07990,,,,emergency tracheotomy
+07993,,,,surgical placement of craniofacial implant - extra oral
+07994,,3201.27,15000.0,surgical placement: zygomatic implant
+07995,,,,synthetic graft - mandible or facial bones by report
+07996,,,,implant-mandible for augmentation purposes (excluding alveolar ridge) by report
+07997,,41.7,5185.0,appliance removal (not by dentist who placed appliance) includes removal of archbar
+07998,,139.77,2376.0,intraoral placement of a fixation device not in conjunction with a fracture
+07999,,41.16,9738.0,unspecified oral surgery procedure by report
+08000,,,,orthodontic treatment - unknown
+08001,,,,orthodontic treatment - unknown
+08010,,,,limited orthodontic treatment of the primary dentition
+08020,,,,limited orthodontic treatment of the transitional dentition
+08040,,,,limited orthodontic treatment of the adult dentition
+08042,,,,orthodontic treatment - unknown
+08048,,,,orthodontic treatment - unknown
+08056,,,,orthodontic treatment - unknown
+08057,,,,orthodontic treatment - unknown
+08060,,,,orthodontic treatment - unknown
+08070,,,,comprehensive orthodontic treatment of the transitional dentition
+08076,,,,orthodontic treatment - unknown
+08080,,,,comprehensive orthodontic treatment of the adolescent dentition
+08081,,,,orthodontic treatment - unknown
+08090,,115.91,8180.0,comprehensive orthodontic treatment of the adult dentition
+08104,,,,orthodontics procedure - unknown
+08108,,,,orthodontics procedure - unknown
+08110,,,,orthodontics procedure - unknown
+08112,450.0,450.0,450.0,orthodontics procedure - unknown
+08114,,,,orthodontics procedure - unknown
+08121,,,,orthodontics procedure - unknown
+08142,133.0,133.0,133.0,orthodontics procedure - unknown
+08189,,,,orthodontics procedure - unknown
+08200,,,,appliance therapy - unknown
+08210,,,1.0,removable appliance therapy
+08211,,,,appliance therapy - unknown
+08220,,,,fixed appliance therapy
+08221,,1324.29,1545.0,appliance therapy - unknown
+08222,450.0,450.0,450.0,appliance therapy - unknown
+08227,,,,appliance therapy - unknown
+08230,,,,appliance therapy - unknown
+08241,,,,appliance therapy - unknown
+08243,375.0,375.0,375.0,appliance therapy - unknown
+08246,,,,appliance therapy - unknown
+08260,,,,appliance therapy - unknown
+08262,,9.85,325.0,appliance therapy - unknown
+08271,153.84,153.84,153.84,appliance therapy - unknown
+08275,162.0,162.0,162.0,appliance therapy - unknown
+08286,,,,appliance therapy - unknown
+08297,,240.58,2042.0,appliance therapy - unknown
+08300,,,,orthodontics procedure - unknown
+08304,,,,orthodontics procedure - unknown
+08305,,97.0,194.0,orthodontics procedure - unknown
+08310,,,,orthodontics procedure - unknown
+08312,,,,orthodontics procedure - unknown
+08337,,,,orthodontics procedure - unknown
+08380,,,,orthodontics procedure - unknown
+08385,,,,orthodontics procedure - unknown
+08391,,,,orthodontics procedure - unknown
+08403,,,,orthodontics procedure - unknown
+08410,,,,orthodontics procedure - unknown
+08420,,,,orthodontics procedure - unknown
+08425,,,,orthodontics procedure - unknown
+08427,,,,orthodontics procedure - unknown
+08428,,,,orthodontics procedure - unknown
+08430,,,,orthodontics procedure - unknown
+08431,,0.01,0.01,orthodontics procedure - unknown
+08437,,,,orthodontics procedure - unknown
+08443,,,,orthodontics procedure - unknown
+08445,,,,orthodontics procedure - unknown
+08447,,,,orthodontics procedure - unknown
+08499,,33.33,50.0,orthodontics procedure - unknown
+08500,,,,orthodontics procedure - unknown
+08501,254.24,254.24,254.24,orthodontics procedure - unknown
+08502,,,,orthodontics procedure - unknown
+08505,,,,orthodontics procedure - unknown
+08539,,,,orthodontics procedure - unknown
+08540,,,0.01,orthodontics procedure - unknown
+08553,,0.17,2.0,orthodontics procedure - unknown
+08562,,,,orthodontics procedure - unknown
+08622,,,,orthodontic treatment - unknown
+08630,,,,orthodontic treatment - unknown
+08640,,,,orthodontic treatment - unknown
+08660,,,,pre-orthodontic treatment examination to monitor growth and development
+08670,,9.1,456.36,periodic orthodontic treatment visit
+08680,,58.68,3685.5,orthodontic retention (removal of appliances construction and placement of retainer(s))
+08681,,,,removable orthodontic retainer adjustment
+08690,,205.49,4726.25,orthodontic treatment - unknown
+08691,,,,orthodontic treatment - unknown
+08692,,,,orthodontic treatment - unknown
+08693,,,,orthodontic treatment - unknown
+08694,,,,orthodontic treatment - unknown
+08695,,,,removal of fixed orthodontic appliances for reasons other than completion of treatment
+08698,,,,re-cement or re-bond fixed retainer - maxillary
+08699,,4330.92,19489.15,re-cement or re-bond fixed retainer - mandibular
+08701,,,,repair of fixed retainer includes reattachment - maxillary
+08702,,,,repair of fixed retainer includes reattachment - mandibular
+08703,,,,replacement of lost or broken retainer - maxillary
+08704,,,,replacement of lost or broken retainer - mandibular
+08730,,,0.01,retainer replacement or repair - unknown
+08731,,,,retainer replacement or repair - unknown
+08740,,,,retainer replacement or repair - unknown
+08750,,,,retainer replacement or repair - unknown
+08751,,,,retainer replacement or repair - unknown
+08768,,,,retainer replacement or repair - unknown
+08769,,,,retainer replacement or repair - unknown
+08783,,,,retainer replacement or repair - unknown
+08816,,,,orthodontics procedure - unknown
+08861,,,,orthodontics procedure - unknown
+08888,,43.75,350.0,orthodontics procedure - unknown
+08895,,,,orthodontics procedure - unknown
+08898,,,,orthodontics procedure - unknown
+08907,,0.1,1.0,unspecified orthodontic procedure - unknown
+08910,,,,unspecified orthodontic procedure - unknown
+08918,,,,unspecified orthodontic procedure - unknown
+08929,1549.0,1820.33,2363.0,unspecified orthodontic procedure - unknown
+08930,,,,unspecified orthodontic procedure - unknown
+08940,,,,unspecified orthodontic procedure - unknown
+08941,,1.38,40.0,unspecified orthodontic procedure - unknown
+08942,,,,unspecified orthodontic procedure - unknown
+08943,,,,unspecified orthodontic procedure - unknown
+08948,,3.66,80.0,unspecified orthodontic procedure - unknown
+08950,2175.0,2175.0,2175.0,unspecified orthodontic procedure - unknown
+08953,,,,unspecified orthodontic procedure - unknown
+08978,,0.01,0.01,unspecified orthodontic procedure - unknown
+08979,,0.01,0.01,unspecified orthodontic procedure - unknown
+08980,,0.01,0.01,unspecified orthodontic procedure - unknown
+08981,0.01,0.01,0.01,unspecified orthodontic procedure - unknown
+08982,,,0.01,unspecified orthodontic procedure - unknown
+08983,,,,unspecified orthodontic procedure - unknown
+08984,0.01,0.01,0.01,unspecified orthodontic procedure - unknown
+08985,0.01,0.01,0.01,unspecified orthodontic procedure - unknown
+08987,,0.01,0.01,unspecified orthodontic procedure - unknown
+08988,,0.01,0.01,unspecified orthodontic procedure - unknown
+08989,,0.01,0.01,unspecified orthodontic procedure - unknown
+08990,,22.98,45.0,unspecified orthodontic procedure - unknown
+08991,,,0.01,unspecified orthodontic procedure - unknown
+08992,,0.01,0.01,unspecified orthodontic procedure - unknown
+08996,0.01,0.01,0.01,unspecified orthodontic procedure - unknown
+08997,,0.01,0.01,unspecified orthodontic procedure - unknown
+08998,0.01,0.01,0.01,unspecified orthodontic procedure - unknown
+08999,,62.05,8856.0,unspecified orthodontic procedure by report
+09000,,,,orthodontics procedure - unknown
+09001,,,,adjunctive general services procedure - unknown
+09002,,25.0,175.0,adjunctive general services procedure - unknown
+09003,,,,adjunctive general services procedure - unknown
+09004,,,,adjunctive general services procedure - unknown
+09005,,,,adjunctive general services procedure - unknown
+09006,,,,adjunctive general services procedure - unknown
+09009,,,,adjunctive general services procedure - unknown
+09010,,,,adjunctive general services procedure - unknown
+09011,,,,adjunctive general services procedure - unknown
+09012,,,,adjunctive general services procedure - unknown
+09013,,,,adjunctive general services procedure - unknown
+09015,,,,adjunctive general services procedure - unknown
+09018,,,,adjunctive general services procedure - unknown
+09020,,,,adjunctive general services procedure - unknown
+09024,,,,adjunctive general services procedure - unknown
+09035,211.6,211.6,211.6,adjunctive general services procedure - unknown
+09050,,,,adjunctive general services procedure - unknown
+09057,,,,adjunctive general services procedure - unknown
+09058,,,,adjunctive general services procedure - unknown
+09068,,558.33,1675.0,adjunctive general services procedure - unknown
+09070,,,,adjunctive general services procedure - unknown
+09079,,,,adjunctive general services procedure - unknown
+09080,,,,adjunctive general services procedure - unknown
+09082,,,,adjunctive general services procedure - unknown
+09083,,2698.87,26828.66,adjunctive general services procedure - unknown
+09088,,30.0,60.0,adjunctive general services procedure - unknown
+09090,,280.63,6460.0,adjunctive general services procedure - unknown
+09100,,4.5,12.0,unspecified adjunctive procedure - unknown
+09106,,,,unspecified adjunctive procedure - unknown
+09110,,24.85,9534.0,palliative treatment of dental pain - per visit
+09111,,,,unspecified adjunctive procedure - unknown
+09112,,,,unspecified adjunctive procedure - unknown
+09113,,,,unspecified adjunctive procedure - unknown
+09114,,,,unspecified adjunctive procedure - unknown
+09115,,,,unspecified adjunctive procedure - unknown
+09116,,,,unspecified adjunctive procedure - unknown
+09120,,21.44,11803.41,fixed partial denture sectioning
+09121,,,,unspecified adjunctive procedure - unknown
+09122,,,,unspecified adjunctive procedure - unknown
+09123,,,,unspecified adjunctive procedure - unknown
+09124,,28.67,43.0,unspecified adjunctive procedure - unknown
+09125,,,,unspecified adjunctive procedure - unknown
+09129,40.8,40.8,40.8,unspecified adjunctive procedure - unknown
+09130,,,,temporomandibular joint dysfunction - non-invasive physical therapies
+09140,,,,unspecified adjunctive procedure - unknown
+09141,,,,unspecified adjunctive procedure - unknown
+09145,,,,unspecified adjunctive procedure - unknown
+09152,,,,unspecified adjunctive procedure - unknown
+09158,,,,unspecified adjunctive procedure - unknown
+09160,,,,unspecified adjunctive procedure - unknown
+09163,,,,unspecified adjunctive procedure - unknown
+09166,,,,unspecified adjunctive procedure - unknown
+09171,11.72,11.72,11.72,unspecified adjunctive procedure - unknown
+09186,,,,unspecified adjunctive procedure - unknown
+09190,,,,unspecified adjunctive procedure - unknown
+09191,,,,unspecified adjunctive procedure - unknown
+09197,,,,unspecified adjunctive procedure - unknown
+09199,,,,unspecified adjunctive procedure - unknown
+09200,,50.0,450.0,anesthesia or sedation - unknown
+09201,,,,anesthesia or sedation - unknown
+09202,,18.29,128.0,anesthesia or sedation - unknown
+09203,,,,anesthesia or sedation - unknown
+09204,,,,anesthesia or sedation - unknown
+09205,,,,anesthesia or sedation - unknown
+09210,,8.73,15336.0,local anesthesia not in conjunction with operative or surgical procedures
+09211,,6.17,691.0,regional block anesthesia
+09212,,5.98,195.0,trigeminal division block anesthesia
+09213,,19.79,160.0,anesthesia or sedation - unknown
+09214,,53.16,244.0,anesthesia or sedation - unknown
+09215,,5.4,200.0,local anesthesia in conjunction with operative or surgical procedures
+09217,,978.39,1630.66,anesthesia or sedation - unknown
+09218,,,,anesthesia or sedation - unknown
+09219,,5.1,150.0,evaluation for moderate sedation deep sedation or general anesthesia
+09220,,27.85,7867.52,anesthesia or sedation - unknown
+09221,,12.23,2622.5,anesthesia or sedation - unknown
+09222,,36.38,6106.0,deep sedation/general anesthesia - first 15 minutes
+09223,,10.75,2945.0,deep sedation/general anesthesia - each subsequent 15 minute increment
+09224,,,,anesthesia or sedation - unknown
+09225,,,,anesthesia or sedation - unknown
+09228,,,,anesthesia or sedation - unknown
+09229,,,,anesthesia or sedation - unknown
+09230,,4.84,730.0,inhalation of nitrous oxide/analgesia anxiolysis
+09231,,,,anesthesia or sedation - unknown
+09232,,,,anesthesia or sedation - unknown
+09233,,31.75,254.0,anesthesia or sedation - unknown
+09234,,,,anesthesia or sedation - unknown
+09235,,,,anesthesia or sedation - unknown
+09238,,,,anesthesia or sedation - unknown
+09239,,7.92,3100.0,intravenous moderate (conscious) sedation/analgesia- first 15 minutes
+09240,,56.65,2500.0,anesthesia or sedation - unknown
+09241,,6.94,2970.0,anesthesia or sedation - unknown
+09242,,1.37,2970.0,anesthesia or sedation - unknown
+09243,,5.05,3000.0,intravenous moderate (conscious) sedation/analgesia - each subsequent 15 minute increment
+09244,,,,anesthesia or sedation - unknown
+09246,,,,anesthesia or sedation - unknown
+09248,,3.68,415.0,non-intravenous conscious sedation
+09249,,,,anesthesia or sedation - unknown
+09250,,,,anesthesia or sedation - unknown
+09251,,,,anesthesia or sedation - unknown
+09252,,,,anesthesia or sedation - unknown
+09253,,,,anesthesia or sedation - unknown
+09255,,,,anesthesia or sedation - unknown
+09257,9.34,9.34,9.34,anesthesia or sedation - unknown
+09266,200.0,200.0,200.0,anesthesia or sedation - unknown
+09267,2.24,2.24,2.24,anesthesia or sedation - unknown
+09270,,,,anesthesia or sedation - unknown
+09278,,,,anesthesia or sedation - unknown
+09281,16.68,23.85,38.18,anesthesia or sedation - unknown
+09283,,,,anesthesia or sedation - unknown
+09284,,,,anesthesia or sedation - unknown
+09285,649.3,649.3,649.3,anesthesia or sedation - unknown
+09286,,,,anesthesia or sedation - unknown
+09290,,,,anesthesia or sedation - unknown
+09291,,,,anesthesia or sedation - unknown
+09293,,,,anesthesia or sedation - unknown
+09298,,,,anesthesia or sedation - unknown
+09300,,,,consultation - unknown
+09301,,65.76,233.0,consultation - unknown
+09304,,,,consultation - unknown
+09307,,,,consultation - unknown
+09308,,,,consultation - unknown
+09309,,,,consultation - unknown
+09310,,9.7,893.0,consultation - diagnostic service provided by dentist or physician other than requesting dentist or physician
+09311,,5.63,150.0,consultation with a medical health care professional
+09312,,,,consultation - unknown
+09313,,,,consultation - unknown
+09316,,,,consultation - unknown
+09320,,96.25,1200.0,consultation - unknown
+09327,,,,consultation - unknown
+09329,,,,consultation - unknown
+09330,,,,consultation - unknown
+09335,,,,consultation - unknown
+09336,,,,consultation - unknown
+09340,71.0,71.0,71.0,consultation - unknown
+09341,,,,consultation - unknown
+09345,,,,consultation - unknown
+09346,,,,consultation - unknown
+09348,,,,consultation - unknown
+09349,,,,consultation - unknown
+09350,,72.77,145.53,consultation - unknown
+09354,,,,consultation - unknown
+09355,,130.17,171.07,consultation - unknown
+09360,,,,consultation - unknown
+09361,,,,consultation - unknown
+09362,,,,consultation - unknown
+09364,,,,consultation - unknown
+09371,,,,consultation - unknown
+09380,,,,consultation - unknown
+09384,,,,consultation - unknown
+09388,,,,consultation - unknown
+09392,,,,consultation - unknown
+09397,,,,consultation - unknown
+09399,23486.4,38285.6,45685.2,consultation - unknown
+09410,,2.87,107.0,house/extended care facility call
+09412,,,,encounter - unknown
+09413,,,,encounter - unknown
+09420,,73.43,15210.0,hospital or ambulatory surgical center call
+09421,,,,encounter - unknown
+09422,,,,encounter - unknown
+09423,,,,encounter - unknown
+09430,,11.84,410.64,office visit for observation (during regularly scheduled hours) - no other services performed
+09431,,,,encounter - unknown
+09432,,,,encounter - unknown
+09433,,,,encounter - unknown
+09440,,6.52,363.0,office visit - after regularly scheduled hours
+09443,,,,encounter - unknown
+09450,,24.09,1666.0,case presentation subsequent to detailed and extensive treatment planning
+09452,,19.0,38.0,encounter - unknown
+09460,,,,encounter - unknown
+09462,,,,encounter - unknown
+09463,130.0,130.0,130.0,encounter - unknown
+09466,,225.0,450.0,encounter - unknown
+09473,,,,encounter - unknown
+09480,,175.0,350.0,encounter - unknown
+09490,,,,encounter - unknown
+09491,,,,encounter - unknown
+09499,,,,encounter - unknown
+09500,,,,adjunctive general services procedure - unknown
+09503,,,,adjunctive general services procedure - unknown
+09504,,,,adjunctive general services procedure - unknown
+09506,,,,adjunctive general services procedure - unknown
+09510,,,,adjunctive general services procedure - unknown
+09512,,,,adjunctive general services procedure - unknown
+09516,1.23,1.23,1.23,adjunctive general services procedure - unknown
+09527,,,,adjunctive general services procedure - unknown
+09530,,,,adjunctive general services procedure - unknown
+09531,,,,adjunctive general services procedure - unknown
+09532,,,,adjunctive general services procedure - unknown
+09533,,,,adjunctive general services procedure - unknown
+09537,,,,adjunctive general services procedure - unknown
+09540,303.0,303.0,303.0,adjunctive general services procedure - unknown
+09541,,,,adjunctive general services procedure - unknown
+09542,,16.29,153.0,adjunctive general services procedure - unknown
+09550,,,,adjunctive general services procedure - unknown
+09552,,,,adjunctive general services procedure - unknown
+09555,,,,adjunctive general services procedure - unknown
+09559,,,,adjunctive general services procedure - unknown
+09560,,,,adjunctive general services procedure - unknown
+09561,,,,adjunctive general services procedure - unknown
+09574,,,,adjunctive general services procedure - unknown
+09580,,,,adjunctive general services procedure - unknown
+09583,,,,adjunctive general services procedure - unknown
+09584,,,,adjunctive general services procedure - unknown
+09585,0.93,1.11,1.29,adjunctive general services procedure - unknown
+09586,,,,adjunctive general services procedure - unknown
+09596,,,,adjunctive general services procedure - unknown
+09599,,,,adjunctive general services procedure - unknown
+09603,,,,medication administration - unknown
+09604,,0.69,2.75,medication administration - unknown
+09605,,,,medication administration - unknown
+09607,,,,medication administration - unknown
+09608,,,,medication administration - unknown
+09610,,2.01,175.0,therapeutic parenteral drug single administration
+09611,,,,medication administration - unknown
+09612,,1.54,386.0,therapeutic parenteral drugs two or more administrations different medications
+09613,,25.26,3289.33,infiltration of sustained release therapeutic drug per quadrant
+09615,,,,medication administration - unknown
+09616,,,,medication administration - unknown
+09617,,,,medication administration - unknown
+09620,468.0,468.0,468.0,medication administration - unknown
+09625,,,,medication administration - unknown
+09628,20.0,20.0,20.0,medication administration - unknown
+09629,,,,medication administration - unknown
+09630,,30.71,4673.45,drugs or medicaments dispensed in the office for home use
+09631,,2.5,20.0,medication administration - unknown
+09632,,5.14,18.0,medication administration - unknown
+09633,12.0,12.0,12.0,medication administration - unknown
+09634,,,,medication administration - unknown
+09635,,,,medication administration - unknown
+09636,165.0,165.0,165.0,medication administration - unknown
+09637,,38.84,116.51,medication administration - unknown
+09638,,,,medication administration - unknown
+09640,,,,medication administration - unknown
+09645,,,,medication administration - unknown
+09650,,23.75,95.0,medication administration - unknown
+09679,218.0,218.0,218.0,medication administration - unknown
+09694,,,,medication administration - unknown
+09697,,,,medication administration - unknown
+09700,,,,adjunctive general services procedure - unknown
+09701,,17.81,55.0,adjunctive general services procedure - unknown
+09703,,8.33,25.0,adjunctive general services procedure - unknown
+09704,,,,adjunctive general services procedure - unknown
+09710,,,,adjunctive general services procedure - unknown
+09711,,,,adjunctive general services procedure - unknown
+09712,,,,adjunctive general services procedure - unknown
+09714,,39.0,65.0,adjunctive general services procedure - unknown
+09720,,,,adjunctive general services procedure - unknown
+09721,,,,adjunctive general services procedure - unknown
+09750,,437.5,1200.0,adjunctive general services procedure - unknown
+09751,,112.5,900.0,adjunctive general services procedure - unknown
+09752,,,,adjunctive general services procedure - unknown
+09753,,119.6,950.0,adjunctive general services procedure - unknown
+09755,,,,adjunctive general services procedure - unknown
+09757,,325.0,650.0,adjunctive general services procedure - unknown
+09760,,,,adjunctive general services procedure - unknown
+09770,,,,adjunctive general services procedure - unknown
+09776,,,,adjunctive general services procedure - unknown
+09777,,,,adjunctive general services procedure - unknown
+09784,,,,adjunctive general services procedure - unknown
+09786,,,,adjunctive general services procedure - unknown
+09799,,320.0,1600.0,adjunctive general services procedure - unknown
+09803,,66.25,137.88,adjunctive general services procedure - unknown
+09810,,,,adjunctive general services procedure - unknown
+09812,,,,adjunctive general services procedure - unknown
+09830,,,,adjunctive general services procedure - unknown
+09871,,,,adjunctive general services procedure - unknown
+09880,425.0,425.0,425.0,adjunctive general services procedure - unknown
+09894,,61.0,75.0,adjunctive general services procedure - unknown
+09898,,,,adjunctive general services procedure - unknown
+09899,,,,adjunctive general services procedure - unknown
+09900,,2.11,35.0,unspecified adjunctive procedure - unknown
+09901,,90.0,180.0,unspecified adjunctive procedure - unknown
+09902,,,,unspecified adjunctive procedure - unknown
+09905,,,,unspecified adjunctive procedure - unknown
+09907,,5.43,38.0,unspecified adjunctive procedure - unknown
+09908,12.0,12.0,12.0,unspecified adjunctive procedure - unknown
+09909,,13.33,20.0,unspecified adjunctive procedure - unknown
+09910,,83.27,4048.0,application of desensitizing medicament
+09911,,5.14,109.95,application of desensitizing resin for cervical and/or root surface per tooth
+09912,,,,pre-visit patient screening
+09913,,,,unspecified adjunctive procedure - unknown
+09915,,,,unspecified adjunctive procedure - unknown
+09916,,18.0,90.0,unspecified adjunctive procedure - unknown
+09919,,,,unspecified adjunctive procedure - unknown
+09920,,2.31,5358.33,behavior management by report
+09921,,7.22,187.0,unspecified adjunctive procedure - unknown
+09922,10.83,10.83,10.83,unspecified adjunctive procedure - unknown
+09923,,2.42,70.07,unspecified adjunctive procedure - unknown
+09924,,,,unspecified adjunctive procedure - unknown
+09928,,122.8,1228.0,unspecified adjunctive procedure - unknown
+09929,,,,unspecified adjunctive procedure - unknown
+09930,,247.13,5775.0,treatment of complications (post-surgical) - unusual circumstances by report
+09931,,,,unspecified adjunctive procedure - unknown
+09932,,,,cleaning and inspection of removable complete denture maxillary
+09933,,,,cleaning and inspection of removable complete denture mandibular
+09934,,,,cleaning and inspection of removable partial denture maxillary
+09935,,,,cleaning and inspection of removable partial denture mandibular
+09938,,,,unspecified adjunctive procedure - unknown
+09939,,,,unspecified adjunctive procedure - unknown
+09940,,73.5,3176.72,unspecified adjunctive procedure - unknown
+09941,,0.01,1.0,fabrication of athletic mouthguard
+09942,,2.84,250.0,repair and/or reline of occlusal guard
+09943,,,,occlusal guard adjustment
+09944,,23.42,3267.0,occlusal guard - hard appliance full arch
+09945,,5.08,354.0,occlusal guard - soft appliance full arch
+09946,,66.76,1313.0,occlusal guard - hard appliance partial arch
+09947,,24.62,2599.0,custom sleep apnea appliance fabrication and placement
+09948,,,,adjustment of custom sleep apnea appliance
+09949,,28.75,340.0,repair of custom sleep apnea appliance
+09950,,8.57,615.0,occlusion analysis - mounted case
+09951,,48.84,4946.62,occlusal adjustment - limited
+09952,,36.45,2840.72,occlusal adjustment - complete
+09953,,,,reline custom sleep apnea appliance (indirect)
+09954,,,,unspecified adjunctive procedure - unknown
+09957,,63.33,95.0,unspecified adjunctive procedure - unknown
+09960,,,,unspecified adjunctive procedure - unknown
+09961,,,,duplicate/copy patient's records
+09962,,,,unspecified adjunctive procedure - unknown
+09963,,77.86,109.0,unspecified adjunctive procedure - unknown
+09966,,41.37,82.74,unspecified adjunctive procedure - unknown
+09967,3.53,177.27,351.0,unspecified adjunctive procedure - unknown
+09970,,0.03,1.0,enamel microabrasion
+09971,,65.7,2376.5,odontoplasty - per tooth
+09972,,15.33,374.0,external bleaching - per arch - performed in office
+09973,,,,external bleaching - per tooth
+09974,,34.32,79.55,internal bleaching - per tooth
+09975,,,,external bleaching for home application per arch; includes materials and fabrication of custom trays
+09976,,21.5,129.0,unspecified adjunctive procedure - unknown
+09977,,,,unspecified adjunctive procedure - unknown
+09978,,,,unspecified adjunctive procedure - unknown
+09979,,,,unspecified adjunctive procedure - unknown
+09980,,1.67,22.38,unspecified adjunctive procedure - unknown
+09981,,,,unspecified adjunctive procedure - unknown
+09982,,,,unspecified adjunctive procedure - unknown
+09983,,0.09,1.0,unspecified adjunctive procedure - unknown
+09984,,,,unspecified adjunctive procedure - unknown
+09985,,,,sales tax
+09986,,,,missed appointment
+09987,,,,cancelled appointment
+09988,,,,unspecified adjunctive procedure - unknown
+09990,,4.4,22.0,certified translation or sign-language services - per visit
+09991,,3.18,70.0,dental case management - addressing appointment compliance barriers
+09992,,2.18,125.0,dental case management - care coordination
+09993,,19.0,133.0,dental case management - motivational interviewing
+09994,,,,dental case management - patient education to improve oral health literacy
+09995,,69.65,125.0,teledentistry - synchronous; real-time encounter
+09996,,,,teledentistry - asynchronous; information stored and forwarded to dentist for subsequent review
+09997,,2.63,250.0,dental case management - patients with special health care needs
+09998,,12.58,375.0,unspecified adjunctive procedure - unknown
+09999,,108.31,17000.0,unspecified adjunctive procedure by report
